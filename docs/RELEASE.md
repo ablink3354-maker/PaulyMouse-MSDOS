@@ -7,3 +7,5 @@ Versión Android de prueba en español latino con el juego original y museo loca
 
 Android 6+ ARM64. La primera apertura prepara los archivos locales. Funciona sin
 conexión. Esta versión necesita pruebas adicionales en distintos teléfonos.
+
+Pendiente reportado durante las pruebas: audio de inicio, cinemáticas iniciales e intervenciones del científico todavía requieren traducción o revisión en español latino. Se abordarán en una actualización posterior.
