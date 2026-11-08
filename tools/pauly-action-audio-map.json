@@ -1,0 +1,770 @@
+{
+  "SEF100N2.AIF": {
+    "room": 1,
+    "action": "A0",
+    "animal": 0,
+    "name": "Pauly"
+  },
+  "SEF101N.AIF": {
+    "room": 1,
+    "action": "A1",
+    "animal": 1,
+    "name": "Pájaro carpintero"
+  },
+  "SEF102N.AIF": {
+    "room": 1,
+    "action": "A2",
+    "animal": 2,
+    "name": "Oso"
+  },
+  "SEF103N.AIF": {
+    "room": 1,
+    "action": "A3",
+    "animal": 3,
+    "name": "Topo"
+  },
+  "SEF104N.AIF": {
+    "room": 1,
+    "action": "A4",
+    "animal": 4,
+    "name": "Lobo"
+  },
+  "SEF105N.AIF": {
+    "room": 1,
+    "action": "A5",
+    "animal": 5,
+    "name": "Tejón"
+  },
+  "SEF106N.AIF": {
+    "room": 1,
+    "action": "A6",
+    "animal": 6,
+    "name": "Alce"
+  },
+  "SEF107N.AIF": {
+    "room": 1,
+    "action": "A7",
+    "animal": 7,
+    "name": "Búho"
+  },
+  "SEF108N.AIF": {
+    "room": 1,
+    "action": "A8",
+    "animal": 8,
+    "name": "Castor"
+  },
+  "SEF109N.AIF": {
+    "room": 1,
+    "action": "A9",
+    "animal": 8,
+    "name": "Castor"
+  },
+  "SEF110N.AIF": {
+    "room": 1,
+    "action": "A10",
+    "animal": 9,
+    "name": "Conejo"
+  },
+  "SEF111N.AIF": {
+    "room": 1,
+    "action": "A11",
+    "animal": 10,
+    "name": "Ardilla"
+  },
+  "SEF112N.AIF": {
+    "room": 1,
+    "action": "A12",
+    "animal": 11,
+    "name": "Zorro"
+  },
+  "SEF113N.AIF": {
+    "room": 1,
+    "action": "A13",
+    "animal": 12,
+    "name": "Rana"
+  },
+  "SEF114N.AIF": {
+    "room": 1,
+    "action": "A14",
+    "animal": 13,
+    "name": "Caracol"
+  },
+  "SEF200N2.AIF": {
+    "room": 2,
+    "action": "A0",
+    "animal": 0,
+    "name": "Pauly"
+  },
+  "SEF201N.AIF": {
+    "room": 2,
+    "action": "A1",
+    "animal": 1,
+    "name": "Camaleón"
+  },
+  "SEF202N.AIF": {
+    "room": 2,
+    "action": "A2",
+    "animal": 2,
+    "name": "Cocodrilo"
+  },
+  "SEF203N.AIF": {
+    "room": 2,
+    "action": "A3",
+    "animal": 3,
+    "name": "Hormiga"
+  },
+  "SEF204N.AIF": {
+    "room": 2,
+    "action": "A4",
+    "animal": 4,
+    "name": "Ardilla voladora"
+  },
+  "SEF205N.AIF": {
+    "room": 2,
+    "action": "A5",
+    "animal": 5,
+    "name": "Tigre"
+  },
+  "SEF206N.AIF": {
+    "room": 2,
+    "action": "A6",
+    "animal": 6,
+    "name": "Boa constrictora"
+  },
+  "SEF207N.AIF": {
+    "room": 2,
+    "action": "A7",
+    "animal": 7,
+    "name": "Tarsero"
+  },
+  "SEF208N.AIF": {
+    "room": 2,
+    "action": "A8",
+    "animal": 8,
+    "name": "Cálao"
+  },
+  "SEF209N.AIF": {
+    "room": 2,
+    "action": "A9",
+    "animal": 9,
+    "name": "Orangután"
+  },
+  "SEF210N.AIF": {
+    "room": 2,
+    "action": "A10",
+    "animal": 10,
+    "name": "Mono narigudo"
+  },
+  "SEF211N.AIF": {
+    "room": 2,
+    "action": "A11",
+    "animal": 11,
+    "name": "Escarabajo rinoceronte"
+  },
+  "SEF212N.AIF": {
+    "room": 2,
+    "action": "A12",
+    "animal": 12,
+    "name": "Rana cornuda"
+  },
+  "SEF214N.AIF": {
+    "room": 2,
+    "action": "A13",
+    "animal": 13,
+    "name": "Oso hormiguero"
+  },
+  "SEF300N2.AIF": {
+    "room": 3,
+    "action": "A0",
+    "animal": 0,
+    "name": "Pauly"
+  },
+  "SEF302N.AIF": {
+    "room": 3,
+    "action": "A1",
+    "animal": 1,
+    "name": "León"
+  },
+  "SEF301N.AIF": {
+    "room": 3,
+    "action": "A2",
+    "animal": 1,
+    "name": "León"
+  },
+  "SEF303N.AIF": {
+    "room": 3,
+    "action": "A3",
+    "animal": 2,
+    "name": "Hipopótamo"
+  },
+  "SEF304N.AIF": {
+    "room": 3,
+    "action": "A4",
+    "animal": 3,
+    "name": "Jirafa"
+  },
+  "SEF305N.AIF": {
+    "room": 3,
+    "action": "A5",
+    "animal": 4,
+    "name": "Elefante"
+  },
+  "SEF306N.AIF": {
+    "room": 3,
+    "action": "A6",
+    "animal": 4,
+    "name": "Elefante"
+  },
+  "SEF307N.AIF": {
+    "room": 3,
+    "action": "A7",
+    "animal": 5,
+    "name": "Antílope"
+  },
+  "SEF308N.AIF": {
+    "room": 3,
+    "action": "A8",
+    "animal": 6,
+    "name": "Guepardo"
+  },
+  "SEF309N.AIF": {
+    "room": 3,
+    "action": "A9",
+    "animal": 7,
+    "name": "Cebra"
+  },
+  "SEF310N.AIF": {
+    "room": 3,
+    "action": "A10",
+    "animal": 8,
+    "name": "Pájaro tejedor"
+  },
+  "SEF311N.AIF": {
+    "room": 3,
+    "action": "A11",
+    "animal": 9,
+    "name": "Rinoceronte"
+  },
+  "SEF312N.AIF": {
+    "room": 3,
+    "action": "A12",
+    "animal": 10,
+    "name": "Babuino"
+  },
+  "SEF313N.AIF": {
+    "room": 3,
+    "action": "A13",
+    "animal": 10,
+    "name": "Babuino"
+  },
+  "SEF314N.AIF": {
+    "room": 3,
+    "action": "A14",
+    "animal": 11,
+    "name": "Flamenco"
+  },
+  "SEF315N.AIF": {
+    "room": 3,
+    "action": "A15",
+    "animal": 12,
+    "name": "Perrito de la pradera"
+  },
+  "SEF316N.AIF": {
+    "room": 3,
+    "action": "A16",
+    "animal": 13,
+    "name": "Termita"
+  },
+  "SEF317N.AIF": {
+    "room": 3,
+    "action": "A17",
+    "animal": 14,
+    "name": "Pelícano"
+  },
+  "SEF400N2.AIF": {
+    "room": 4,
+    "action": "A0",
+    "animal": 0,
+    "name": "Pauly"
+  },
+  "SEF401N.AIF": {
+    "room": 4,
+    "action": "A1",
+    "animal": 1,
+    "name": "Monstruo de Gila"
+  },
+  "SEF402N.AIF": {
+    "room": 4,
+    "action": "A2",
+    "animal": 2,
+    "name": "Dromedario"
+  },
+  "SEF403N.AIF": {
+    "room": 4,
+    "action": "A3",
+    "animal": 3,
+    "name": "Lechuza"
+  },
+  "SEF404N.AIF": {
+    "room": 4,
+    "action": "A4",
+    "animal": 4,
+    "name": "Tortuga del desierto"
+  },
+  "SEF405N.AIF": {
+    "room": 4,
+    "action": "A5",
+    "animal": 5,
+    "name": "Serpiente de cascabel"
+  },
+  "SEF406N.AIF": {
+    "room": 4,
+    "action": "A6",
+    "animal": 6,
+    "name": "Zorro del desierto"
+  },
+  "SEF407N.AIF": {
+    "room": 4,
+    "action": "A7",
+    "animal": 7,
+    "name": "Jerbo"
+  },
+  "SEF408N.AIF": {
+    "room": 4,
+    "action": "A8",
+    "animal": 8,
+    "name": "Águila"
+  },
+  "SEF409N.AIF": {
+    "room": 4,
+    "action": "A9",
+    "animal": 9,
+    "name": "Avestruz"
+  },
+  "SEF410N.AIF": {
+    "room": 4,
+    "action": "A10",
+    "animal": 10,
+    "name": "Escorpión"
+  },
+  "SEF411N.AIF": {
+    "room": 4,
+    "action": "A11",
+    "animal": 11,
+    "name": "Araña"
+  },
+  "SEF500N2.AIF": {
+    "room": 5,
+    "action": "A0",
+    "animal": 0,
+    "name": "Pauly"
+  },
+  "SEF501N.AIF": {
+    "room": 5,
+    "action": "A1",
+    "animal": 1,
+    "name": "Albatros"
+  },
+  "SEF502N.AIF": {
+    "room": 5,
+    "action": "A2",
+    "animal": 2,
+    "name": "Estrella de mar"
+  },
+  "SEF503N.AIF": {
+    "room": 5,
+    "action": "A3",
+    "animal": 3,
+    "name": "Delfín"
+  },
+  "SEF504N.AIF": {
+    "room": 5,
+    "action": "A4",
+    "animal": 4,
+    "name": "Ballena azul"
+  },
+  "SEF505N.AIF": {
+    "room": 5,
+    "action": "A5",
+    "animal": 5,
+    "name": "Vieira"
+  },
+  "SEF507N.AIF": {
+    "room": 5,
+    "action": "A6",
+    "animal": 6,
+    "name": "Tortuga marina"
+  },
+  "SEF506N.AIF": {
+    "room": 5,
+    "action": "A7",
+    "animal": 6,
+    "name": "Tortuga marina"
+  },
+  "SEF508N.AIF": {
+    "room": 5,
+    "action": "A8",
+    "animal": 7,
+    "name": "Caracol tritón"
+  },
+  "SEF509N.AIF": {
+    "room": 5,
+    "action": "A9",
+    "animal": 8,
+    "name": "Cangrejo ermitaño"
+  },
+  "SEF510N.AIF": {
+    "room": 5,
+    "action": "A10",
+    "animal": 9,
+    "name": "Tiburón"
+  },
+  "SEF511N.AIF": {
+    "room": 5,
+    "action": "A11",
+    "animal": 10,
+    "name": "Pez volador"
+  },
+  "SEF512N.AIF": {
+    "room": 5,
+    "action": "A12",
+    "animal": 11,
+    "name": "Orca"
+  },
+  "SEF513N.AIF": {
+    "room": 5,
+    "action": "A13",
+    "animal": 12,
+    "name": "Cangrejo de la costa"
+  },
+  "SEF600N2.AIF": {
+    "room": 6,
+    "action": "A0",
+    "animal": 0,
+    "name": "Pauly"
+  },
+  "SEF601N.AIF": {
+    "room": 6,
+    "action": "A1",
+    "animal": 1,
+    "name": "Anémona y pez payaso"
+  },
+  "SEF602N.AIF": {
+    "room": 6,
+    "action": "A2",
+    "animal": 2,
+    "name": "Pez pescador"
+  },
+  "SEF603N.AIF": {
+    "room": 6,
+    "action": "A3",
+    "animal": 3,
+    "name": "Sepia"
+  },
+  "SEF604N.AIF": {
+    "room": 6,
+    "action": "A4",
+    "animal": 4,
+    "name": "Serpiente marina"
+  },
+  "SEF605N.AIF": {
+    "room": 6,
+    "action": "A5",
+    "animal": 5,
+    "name": "Cangrejo"
+  },
+  "SEF606N.AIF": {
+    "room": 6,
+    "action": "A6",
+    "animal": 6,
+    "name": "Erizo de mar"
+  },
+  "SEF607N.AIF": {
+    "room": 6,
+    "action": "A7",
+    "animal": 7,
+    "name": "Caballito de mar"
+  },
+  "SEF608N.AIF": {
+    "room": 6,
+    "action": "A8",
+    "animal": 8,
+    "name": "Langosta"
+  },
+  "SEF609N.AIF": {
+    "room": 6,
+    "action": "A9",
+    "animal": 9,
+    "name": "Pez erizo"
+  },
+  "SEF610N.AIF": {
+    "room": 6,
+    "action": "A10",
+    "animal": 10,
+    "name": "Medusa"
+  },
+  "SEF611N.AIF": {
+    "room": 6,
+    "action": "A11",
+    "animal": 11,
+    "name": "Manatí"
+  },
+  "SEF612N.AIF": {
+    "room": 6,
+    "action": "A12",
+    "animal": 12,
+    "name": "Pez plano"
+  },
+  "SEF613N.AIF": {
+    "room": 6,
+    "action": "A13",
+    "animal": 13,
+    "name": "Tiburón martillo"
+  },
+  "SEF614N.AIF": {
+    "room": 6,
+    "action": "A14",
+    "animal": 14,
+    "name": "Raya eléctrica"
+  },
+  "SEF615N.AIF": {
+    "room": 6,
+    "action": "A15",
+    "animal": 15,
+    "name": "Pulpo"
+  },
+  "SEF616N.AIF": {
+    "room": 6,
+    "action": "A16",
+    "animal": 16,
+    "name": "Almeja gigante"
+  },
+  "SEF700N2.AIF": {
+    "room": 7,
+    "action": "A0",
+    "animal": 0,
+    "name": "Pauly"
+  },
+  "SEF701N.AIF": {
+    "room": 7,
+    "action": "A1",
+    "animal": 1,
+    "name": "Foca"
+  },
+  "SEF702N.AIF": {
+    "room": 7,
+    "action": "A2",
+    "animal": 2,
+    "name": "Oso polar"
+  },
+  "SEF703N.AIF": {
+    "room": 7,
+    "action": "A3",
+    "animal": 2,
+    "name": "Oso polar"
+  },
+  "SEF704N.AIF": {
+    "room": 7,
+    "action": "A4",
+    "animal": 3,
+    "name": "Morsa"
+  },
+  "SEF705N.AIF": {
+    "room": 7,
+    "action": "A5",
+    "animal": 4,
+    "name": "Beluga"
+  },
+  "SEF706N.AIF": {
+    "room": 7,
+    "action": "A6",
+    "animal": 5,
+    "name": "Zorro ártico"
+  },
+  "SEF707N.AIF": {
+    "room": 7,
+    "action": "A7",
+    "animal": 6,
+    "name": "Págalo"
+  },
+  "SEF708N.AIF ": {
+    "room": 7,
+    "action": "A8",
+    "animal": 7,
+    "name": "Pingüino"
+  },
+  "SEF709N.AIF": {
+    "room": 7,
+    "action": "A9",
+    "animal": 8,
+    "name": "Ballena franca"
+  },
+  "SEF710N.AIF": {
+    "room": 7,
+    "action": "A10",
+    "animal": 9,
+    "name": "Narval"
+  },
+  "SEF711N.AIF": {
+    "room": 7,
+    "action": "A11",
+    "animal": 10,
+    "name": "Elefante marino"
+  },
+  "SEF800N2.AIF": {
+    "room": 8,
+    "action": "A0",
+    "animal": 0,
+    "name": "Pauly"
+  },
+  "SEF801N.AIF": {
+    "room": 8,
+    "action": "A1",
+    "animal": 1,
+    "name": "Lagarto de collar"
+  },
+  "SEF802N.AIF": {
+    "room": 8,
+    "action": "A2",
+    "animal": 2,
+    "name": "Emú"
+  },
+  "SEF803AN.AIF": {
+    "room": 8,
+    "action": "A3",
+    "animal": 3,
+    "name": "Koala"
+  },
+  "SEF803BN.AIF": {
+    "room": 8,
+    "action": "A4",
+    "animal": 3,
+    "name": "Koala"
+  },
+  "SEF805N.AIF": {
+    "room": 8,
+    "action": "A5",
+    "animal": 4,
+    "name": "Diablo de Tasmania"
+  },
+  "SEF806N.AIF": {
+    "room": 8,
+    "action": "A6",
+    "animal": 5,
+    "name": "Equidna"
+  },
+  "SEF807N.AIF": {
+    "room": 8,
+    "action": "A7",
+    "animal": 6,
+    "name": "Canguro"
+  },
+  "SEF808N.AIF": {
+    "room": 8,
+    "action": "A8",
+    "animal": 6,
+    "name": "Canguro"
+  },
+  "SEF809N.AIF": {
+    "room": 8,
+    "action": "A9",
+    "animal": 7,
+    "name": "Kiwi"
+  },
+  "SEF810N.AIF": {
+    "room": 8,
+    "action": "A10",
+    "animal": 8,
+    "name": "Ornitorrinco"
+  },
+  "SEF804N.AIF": {
+    "room": 8,
+    "action": "A11",
+    "animal": 9,
+    "name": "Tilacino"
+  },
+  "SEF900N2.AIF": {
+    "room": 9,
+    "action": "A0",
+    "animal": 0,
+    "name": "Pauly"
+  },
+  "SEF901N.AIF": {
+    "room": 9,
+    "action": "A1",
+    "animal": 1,
+    "name": "Araña"
+  },
+  "SEF902N.AIF": {
+    "room": 9,
+    "action": "A2",
+    "animal": 2,
+    "name": "Abeja"
+  },
+  "SEF903N.AIF": {
+    "room": 9,
+    "action": "A3",
+    "animal": 3,
+    "name": "Gato"
+  },
+  "SEF904N.AIF": {
+    "room": 9,
+    "action": "A4",
+    "animal": 4,
+    "name": "Perro"
+  },
+  "SEF905N.AIF": {
+    "room": 9,
+    "action": "A5",
+    "animal": 5,
+    "name": "Cerdo"
+  },
+  "SEF906N.AIF": {
+    "room": 9,
+    "action": "A6",
+    "animal": 6,
+    "name": "Vaca"
+  },
+  "SEF907N.AIF": {
+    "room": 9,
+    "action": "A7",
+    "animal": 7,
+    "name": "Caballo"
+  },
+  "SEF908N.AIF": {
+    "room": 9,
+    "action": "A8",
+    "animal": 8,
+    "name": "Rata"
+  },
+  "SEF909N.AIF": {
+    "room": 9,
+    "action": "A9",
+    "animal": 9,
+    "name": "Oveja y cabra"
+  },
+  "SEF910N.AIF": {
+    "room": 9,
+    "action": "A10",
+    "animal": 10,
+    "name": "Cigüeña"
+  },
+  "SEF911N.AIF": {
+    "room": 9,
+    "action": "A11",
+    "animal": 11,
+    "name": "Ganso"
+  },
+  "SEF912N.AIF": {
+    "room": 9,
+    "action": "A12",
+    "animal": 12,
+    "name": "Golondrina"
+  },
+  "SEF913N.AIF": {
+    "room": 9,
+    "action": "A13",
+    "animal": 13,
+    "name": "Libélula"
+  }
+}

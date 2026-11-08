@@ -1,0 +1,50 @@
+[
+  {
+    "file": "TBGM-0.AIF",
+    "character": "Pauly",
+    "text": "Buenas tardes, profesor Mousein. Quiero hacerle unas preguntas sobre los seres vivos que habitaban nuestro planeta en el siglo veinte.",
+    "voice": "es-MX-DaliaNeural",
+    "pitch": "+55Hz",
+    "rate": "+5%"
+  },
+  {
+    "file": "TBGM-1.AIF",
+    "character": "Profesor",
+    "text": "Preguntar está muy bien, Pauly. Pero descubrir tú mismo las respuestas es todavía mejor.",
+    "voice": "es-MX-JorgeNeural",
+    "pitch": "-20Hz",
+    "rate": "-5%"
+  },
+  {
+    "file": "TBGM-2.AIF",
+    "character": "Pauly",
+    "text": "Quiero saberlo todo sobre los animales de la tierra, del mar y del aire. ¿Qué hacen? ¿Qué comen? ¿Cómo y por qué?",
+    "voice": "es-MX-DaliaNeural",
+    "pitch": "+55Hz",
+    "rate": "+5%"
+  },
+  {
+    "file": "TBGM-3.AIF",
+    "character": "Profesor",
+    "text": "¡Tranquilo, amiguito! Primero déjame encontrar mi gran libro mágico. ¡Ah, aquí está! Toma este libro y mi máquina del tiempo. Con ellos encontrarás las respuestas a tus preguntas.",
+    "voice": "es-MX-JorgeNeural",
+    "pitch": "-20Hz",
+    "rate": "-5%"
+  },
+  {
+    "file": "TBGM-4.AIF",
+    "character": "Pauly",
+    "text": "¿Quiere decir que puedo viajar en el tiempo y ver dónde y cómo vivían todos esos animales?",
+    "voice": "es-MX-DaliaNeural",
+    "pitch": "+55Hz",
+    "rate": "+5%"
+  },
+  {
+    "file": "TBGM-5.AIF",
+    "character": "Profesor",
+    "text": "¡Exactamente! Ahora ve, elige tu destino y descubre las respuestas.",
+    "voice": "es-MX-JorgeNeural",
+    "pitch": "-20Hz",
+    "rate": "-5%"
+  }
+]

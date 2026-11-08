@@ -1,0 +1,23 @@
+name: Publicar APK verificada
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: release-artifacts
+          path: release-assets
+          lfs: true
+          sparse-checkout: releases
+      - name: Comprobar archivos de la entrega
+        run: python tools/verify-release-assets.py
+      - name: Publicar APK y fuente correspondiente
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" release-assets/releases/* --title "Pauly Mouse $GITHUB_REF_NAME · Android español" --notes-file docs/RELEASE.md --verify-tag --prerelease

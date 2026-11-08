@@ -1,0 +1,83 @@
+[
+  {
+    "book": 1,
+    "patchedHandlers": [
+      "15",
+      "16",
+      "59"
+    ],
+    "blockingLoopRemoved": true
+  },
+  {
+    "book": 2,
+    "patchedHandlers": [
+      "15",
+      "16",
+      "71"
+    ],
+    "blockingLoopRemoved": true
+  },
+  {
+    "book": 3,
+    "patchedHandlers": [
+      "15",
+      "16",
+      "70"
+    ],
+    "blockingLoopRemoved": true
+  },
+  {
+    "book": 4,
+    "patchedHandlers": [
+      "15",
+      "16",
+      "70"
+    ],
+    "blockingLoopRemoved": true
+  },
+  {
+    "book": 5,
+    "patchedHandlers": [
+      "15",
+      "16",
+      "71"
+    ],
+    "blockingLoopRemoved": true
+  },
+  {
+    "book": 6,
+    "patchedHandlers": [
+      "15",
+      "16",
+      "31"
+    ],
+    "blockingLoopRemoved": true
+  },
+  {
+    "book": 7,
+    "patchedHandlers": [
+      "15",
+      "16",
+      "71"
+    ],
+    "blockingLoopRemoved": true
+  },
+  {
+    "book": 8,
+    "patchedHandlers": [
+      "15",
+      "16",
+      "70"
+    ],
+    "blockingLoopRemoved": true
+  },
+  {
+    "book": 9,
+    "patchedHandlers": [
+      "15",
+      "16",
+      "70"
+    ],
+    "blockingLoopRemoved": true
+  }
+]

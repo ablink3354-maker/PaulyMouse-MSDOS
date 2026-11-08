@@ -1,0 +1,21 @@
+{
+    "alignment": "center",
+    "backgroundColor": "#CC9966",
+    "buttonType": "pushButton",
+    "content": {},
+    "height": 16,
+    "text": "Click me!",
+    "txt_format": [
+        {
+            "bold": false,
+            "color": "#000000",
+            "font_family": "Arial",
+            "font_size": 12,
+            "italic": false,
+            "start": 0,
+            "underline": false
+        }
+    ],
+    "type": "button",
+    "width": 160
+}

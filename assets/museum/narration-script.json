@@ -1,0 +1,292 @@
+[
+  {
+    "id": "lobo",
+    "text": "Lobo gris. Los lobos suelen vivir en grupos familiares llamados manadas. Se comunican con sonidos, posturas y olores. ¿Sabías que? Sus aullidos les ayudan a comunicarse a distancia.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "castor",
+    "text": "Castor euroasiático. El castor es un roedor que vive cerca del agua. Usa ramas y barro para construir refugios y, en algunos lugares, presas. ¿Sabías que? Sus dientes delanteros crecen durante toda la vida.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "buho",
+    "text": "Búho real. El búho real es un ave rapaz. Muchos búhos están activos por la noche y tienen una vista y un oído muy desarrollados. ¿Sabías que? Las plumas de sus alas ayudan a reducir el ruido al volar.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "ardilla",
+    "text": "Ardilla roja. La ardilla roja trepa a los árboles y come semillas, frutos y otros alimentos. A veces guarda comida para encontrarla después. ¿Sabías que? Su cola le ayuda a mantener el equilibrio al moverse por las ramas.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "leon",
+    "text": "León. El león es un gran felino que vive en grupos. Las leonas suelen colaborar en la caza y en el cuidado de las crías. ¿Sabías que? El rugido es una de sus formas de comunicación.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "elefante",
+    "text": "Elefante africano de sabana. El elefante africano de sabana es el animal terrestre más grande. Con su trompa puede respirar, oler, tomar agua y sujetar objetos. ¿Sabías que? Su trompa reúne la nariz y el labio superior.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "jirafa",
+    "text": "Jirafa. La jirafa usa su largo cuello y su lengua para alcanzar hojas. Su pelaje de manchas ayuda a distinguir a cada individuo. ¿Sabías que? Como la mayoría de los mamíferos, tiene siete vértebras en el cuello.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "cebra",
+    "text": "Cebra de llanura. Las cebras de llanura son herbívoras y suelen vivir en grupos. Cada una tiene un patrón de rayas diferente. ¿Sabías que? Sus rayas pueden ayudar a reducir las picaduras de algunas moscas.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "dromedario",
+    "text": "Dromedario. El dromedario está adaptado a ambientes secos. Su única joroba almacena grasa, no agua. ¿Sabías que? Sus largas pestañas y sus fosas nasales le ayudan a protegerse de la arena.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "fenec",
+    "text": "Fénec. El fénec es un pequeño zorro del desierto. Suele estar activo por la noche y descansa en madrigueras. ¿Sabías que? Sus grandes orejas le ayudan a perder calor y a escuchar.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "escorpion",
+    "text": "Escorpión del desierto. Los escorpiones son arácnidos. Tienen ocho patas y se alimentan de pequeños animales. Debemos observarlos a distancia y nunca tocarlos. ¿Sabías que? Muchos escorpiones se refugian durante las horas más calurosas.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "escarabajo",
+    "text": "Escarabajo pelotero. Los escarabajos peloteros aprovechan el estiércol como alimento y para la reproducción. Ayudan a reciclar nutrientes. ¿Sabías que? Algunas especies forman bolas de estiércol y las transportan.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "jaguar",
+    "text": "Jaguar. El jaguar es el felino más grande de América. Puede nadar y habita distintos ambientes, incluidos los bosques tropicales. ¿Sabías que? Las manchas de su pelaje se llaman rosetas.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "tucan",
+    "text": "Tucán pico iris. El tucán pico iris vive en bosques de América tropical. Su dieta incluye muchos frutos y también otros alimentos. ¿Sabías que? Su pico es grande, pero relativamente ligero.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "perezoso",
+    "text": "Perezoso de garganta parda. Este perezoso pasa gran parte de su vida en los árboles. Sus movimientos lentos y su metabolismo le ayudan a ahorrar energía. ¿Sabías que? Tiene tres dedos con garras en cada extremidad delantera.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "rana",
+    "text": "Rana de ojos rojos. La rana de ojos rojos es un anfibio de los bosques tropicales de América Central. Sus dedos le ayudan a sujetarse a las hojas. ¿Sabías que? Suele estar activa por la noche.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "ballena",
+    "text": "Ballena jorobada. La ballena jorobada es un mamífero marino. Respira aire y debe subir a la superficie para hacerlo. ¿Sabías que? Los machos producen cantos complejos.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "delfin",
+    "text": "Delfín nariz de botella. El delfín nariz de botella es un mamífero. Usa sonidos y escucha sus ecos para orientarse y buscar alimento. ¿Sabías que? Este sistema se llama ecolocalización.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "pulpo",
+    "text": "Pulpo común. El pulpo común es un molusco con ocho brazos. Sus ventosas le ayudan a explorar y sujetar objetos. ¿Sabías que? Puede cambiar de color y de textura para camuflarse.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "tiburon",
+    "text": "Tiburón azul. El tiburón azul es un pez que vive en aguas oceánicas. Obtiene oxígeno del agua mediante sus branquias. ¿Sabías que? Su esqueleto está formado principalmente por cartílago.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "payaso",
+    "text": "Pez payaso común. El pez payaso común vive asociado con ciertas anémonas. Esta relación puede dar protección y otros beneficios a ambos animales. ¿Sabías que? Una capa especial de mucosidad ayuda a protegerlo de su anémona.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "tortuga",
+    "text": "Tortuga verde. La tortuga verde es un reptil marino. Respira aire y las hembras salen a playas para poner sus huevos. ¿Sabías que? Su caparazón forma parte de su esqueleto.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "caballito",
+    "text": "Caballito de mar amarillo. El caballito de mar es un pez. Su cola prensil le ayuda a sujetarse a la vegetación y a otros soportes. ¿Sabías que? El macho lleva los huevos en una bolsa especial hasta que nacen las crías.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "cirujano",
+    "text": "Pez cirujano azul. El pez cirujano azul vive en arrecifes del Indo-Pacífico. Come algas y otros alimentos pequeños. ¿Sabías que? Tiene una espina afilada cerca de la cola; debemos observarlo sin tocarlo.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "oso",
+    "text": "Oso polar. El oso polar vive en el Ártico, en el hemisferio norte. Depende del hielo marino para cazar gran parte de su alimento. ¿Sabías que? No comparte su hábitat natural con el pingüino emperador.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "pinguino",
+    "text": "Pingüino emperador. El pingüino emperador vive en la región antártica. Es un ave que no vuela, pero nada muy bien. ¿Sabías que? El macho mantiene el huevo sobre sus patas durante la incubación.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "morsa",
+    "text": "Morsa. La morsa es un mamífero marino del Ártico. Sus bigotes sensibles le ayudan a encontrar alimento en el fondo. ¿Sabías que? Sus colmillos crecen tanto en machos como en hembras.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "zorro",
+    "text": "Zorro ártico. El zorro ártico tiene un pelaje denso que lo protege del frío. También tiene pelo en las plantas de las patas. ¿Sabías que? Muchas poblaciones cambian el color del pelaje según la estación.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "vaca",
+    "text": "Vaca doméstica. Las vacas son mamíferos herbívoros y rumiantes. Vuelven a masticar parte del alimento para ayudar a su digestión. ¿Sabías que? Necesitan agua limpia, alimento adecuado, espacio y cuidados.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "gallina",
+    "text": "Gallina doméstica. La gallina es un ave doméstica. Tiene plumas, pico y dos patas, y pone huevos. ¿Sabías que? Explora el suelo rascándolo con las patas.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "oveja",
+    "text": "Oveja doméstica. Las ovejas son mamíferos herbívoros. Muchas razas producen lana y suelen vivir en grupos llamados rebaños. ¿Sabías que? La lana ayuda a aislar su cuerpo del ambiente.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "cerdo",
+    "text": "Cerdo doméstico. Los cerdos son mamíferos con un olfato muy desarrollado. Son omnívoros: pueden comer distintos alimentos de origen vegetal y animal. ¿Sabías que? Revolcarse en lodo puede ayudarles a refrescarse y proteger la piel.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "canguro",
+    "text": "Canguro rojo. El canguro rojo es un marsupial de Australia. Se desplaza saltando con sus fuertes patas traseras. ¿Sabías que? La cría continúa su desarrollo en la bolsa de la madre.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "koala",
+    "text": "Koala. El koala es un marsupial de Australia. Su dieta se basa en hojas de ciertos eucaliptos. ¿Sabías que? Aunque a veces se le diga oso koala, no es un oso.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "ornitorrinco",
+    "text": "Ornitorrinco. El ornitorrinco es un mamífero australiano que pone huevos. Vive cerca de ríos y arroyos y busca alimento en el agua. ¿Sabías que? Es uno de los pocos grupos de mamíferos que ponen huevos.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "emu",
+    "text": "Emú. El emú es una gran ave de Australia que no vuela. Sus largas patas le permiten desplazarse corriendo. ¿Sabías que? Los machos incuban los huevos y cuidan a las crías.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "habitat-bosque",
+    "text": "Vamos a explorar el bosque. Donde los árboles guardan secretos. Toca las fotografías para conocer a sus animales.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "historia-bosque",
+    "text": "Pauly encontró una hoja dorada junto al río. Su brújula brilló al escuchar el agua. Para seguir el viaje, decidió conocer a los animales del bosque. ¿Quién construye junto al río? ¿Quién despierta cuando llega la noche? Cada encuentro le enseñaría una nueva forma de vivir.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "habitat-sabana",
+    "text": "Vamos a explorar la sabana. Un viaje entre pastizales y acacias. Toca las fotografías para conocer a sus animales.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "historia-sabana",
+    "text": "La brújula llevó a Pauly hasta una llanura de hierba dorada. A lo lejos vio animales muy altos y otros enormes. Comprendió que en la sabana el agua y la sombra son valiosas. Su misión era observar cómo se alimentan sus habitantes sin acercarse demasiado.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "habitat-desierto",
+    "text": "Vamos a explorar el desierto. La vida encuentra su camino. Toca las fotografías para conocer a sus animales.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "historia-desierto",
+    "text": "Pauly llegó temprano, cuando la arena aún estaba fresca. Creía que el desierto estaba vacío, pero descubrió huellas por todas partes. Algunos animales se escondían del sol y otros guardaban energía. Pauly aprendió que sobrevivir también significa saber descansar.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "habitat-selva",
+    "text": "Vamos a explorar la selva tropical. Un mundo de hojas, sonidos y colores. Toca las fotografías para conocer a sus animales.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "historia-selva",
+    "text": "Una lluvia suave recibió a Pauly. Bajo las hojas enormes escuchó cantos y pequeños pasos. En la selva había vida en el suelo y también en las copas de los árboles. Su brújula le propuso mirar con calma: no todos los animales son fáciles de encontrar.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "habitat-oceano",
+    "text": "Vamos a explorar el mar abierto. Exploradores del gran azul. Toca las fotografías para conocer a sus animales.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "historia-oceano",
+    "text": "Pauly subió a su pequeño vehículo de exploración submarina. El océano parecía no tener fin. Vio que algunos animales suben a respirar y otros obtienen oxígeno del agua. Para continuar, tendría que aprender a distinguir esas dos maneras de vivir en el mar.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "habitat-arrecife",
+    "text": "Vamos a explorar el arrecife. Una ciudad viva bajo el agua. Toca las fotografías para conocer a sus animales.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "historia-arrecife",
+    "text": "El agua se llenó de colores. Pauly descubrió un arrecife donde muchos seres vivos encontraban alimento y refugio. Entendió que los corales son animales, aunque parezcan plantas o piedras. Su misión sería conocer a sus vecinos y recordar que los arrecifes necesitan protección.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "habitat-polos",
+    "text": "Vamos a explorar las regiones polares. Dos extremos, muchos descubrimientos. Toca las fotografías para conocer a sus animales.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "historia-polos",
+    "text": "La brújula marcó primero el norte y después el sur. Pauly preparó su abrigo y anotó algo importante: el Ártico y la Antártida no son el mismo lugar. Un oso polar y un pingüino emperador no viven juntos en la naturaleza. ¡Había mucho por descubrir entre el hielo!",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "habitat-granja",
+    "text": "Vamos a explorar la granja. Animales que conocemos de cerca. Toca las fotografías para conocer a sus animales.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "historia-granja",
+    "text": "Un camino llevó a Pauly a una granja. Allí conoció animales domésticos que necesitan agua, alimento, espacio y buenos cuidados. Aunque muchos eran familiares, cada uno tenía características sorprendentes. Pauly decidió escuchar, observar y aprender a tratarlos con respeto.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "habitat-australia",
+    "text": "Vamos a explorar australia. Encuentros al otro lado del mundo. Toca las fotografías para conocer a sus animales.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "historia-australia",
+    "text": "El último destino estaba muy lejos. En Australia, Pauly encontró animales que no había visto en ningún otro lugar del viaje. Había mamíferos con bolsa y uno que pone huevos. Su brújula ya reunía nueve recuerdos: comprender la diversidad era el verdadero tesoro.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "bienvenida",
+    "text": "¡Hola! Soy Pauly. Acompáñame a descubrir los animales de nuestro planeta. Explora nueve hábitats, escucha sus historias y completa tu cuaderno de exploración.",
+    "voice": "es-MX-JorgeNeural"
+  },
+  {
+    "id": "acierto",
+    "text": "¡Muy bien! Acabas de descubrir algo nuevo.",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "intenta",
+    "text": "Todavía no. Lee la pista y vuelve a intentarlo. ¡Tú puedes!",
+    "voice": "es-MX-DaliaNeural"
+  },
+  {
+    "id": "completo",
+    "text": "¡Lo lograste! Tu curiosidad te ha convertido en un gran explorador de la naturaleza.",
+    "voice": "es-MX-JorgeNeural"
+  }
+]

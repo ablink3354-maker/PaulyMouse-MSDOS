@@ -1,0 +1,5 @@
+[
+ {"file":"HELPVOL.AIF","text":"Primero ajusta el volumen del juego tocando los números del uno al siete. También puedes tocar el botón cuadrado para saltar la introducción y comenzar tu viaje conmigo.","voice":"es-MX-DaliaNeural","pitch":"+55Hz","rate":"+5%","character":"Pauly"},
+ {"file":"ECOC1.AIF","text":"¡Adelante!","voice":"es-MX-JorgeNeural","pitch":"-20Hz","rate":"+5%","character":"Profesor"},
+ {"file":"ECOC2.AIF","text":"Elige tu destino y descubre las respuestas a tus preguntas.","voice":"es-MX-JorgeNeural","pitch":"-20Hz","rate":"+5%","character":"Profesor"}
+]

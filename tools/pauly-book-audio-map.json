@@ -1,0 +1,779 @@
+[
+  {
+    "room": 1,
+    "animal": 1,
+    "name": "Pájaro carpintero",
+    "questionFile": "QUE101N.AIF",
+    "answerFile": "DEF101N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 2,
+    "name": "Oso",
+    "questionFile": "QUE102N.AIF",
+    "answerFile": "DEF102N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 3,
+    "name": "Topo",
+    "questionFile": "QUE103N.AIF",
+    "answerFile": "DEF103N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 4,
+    "name": "Lobo",
+    "questionFile": "QUE104N.AIF",
+    "answerFile": "DEF104N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 5,
+    "name": "Tejón",
+    "questionFile": "QUE105N.AIF",
+    "answerFile": "DEF105N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 6,
+    "name": "Alce",
+    "questionFile": "QUE106N.AIF",
+    "answerFile": "DEF106N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 7,
+    "name": "Búho",
+    "questionFile": "QUE107N.AIF",
+    "answerFile": "DEF107N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 8,
+    "name": "Castor",
+    "questionFile": "QUE108N.AIF",
+    "answerFile": "DEF108N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 9,
+    "name": "Conejo",
+    "questionFile": "QUE110N.AIF",
+    "answerFile": "DEF110N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 10,
+    "name": "Ardilla",
+    "questionFile": "QUE111N.AIF",
+    "answerFile": "DEF111N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 11,
+    "name": "Zorro",
+    "questionFile": "QUE112N.AIF",
+    "answerFile": "DEF112N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 12,
+    "name": "Rana",
+    "questionFile": "QUE113N.AIF",
+    "answerFile": "DEF113N.AIF"
+  },
+  {
+    "room": 1,
+    "animal": 13,
+    "name": "Caracol",
+    "questionFile": "QUE114N.AIF",
+    "answerFile": "DEF114N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 1,
+    "name": "Camaleón",
+    "questionFile": "QUE201N.AIF",
+    "answerFile": "DEF201N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 2,
+    "name": "Cocodrilo",
+    "questionFile": "QUE202N.AIF",
+    "answerFile": "DEF202N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 3,
+    "name": "Hormiga",
+    "questionFile": "QUE203N.AIF",
+    "answerFile": "DEF203N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 4,
+    "name": "Ardilla voladora",
+    "questionFile": "QUE204N.AIF",
+    "answerFile": "DEF204N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 5,
+    "name": "Tigre",
+    "questionFile": "QUE205N.AIF",
+    "answerFile": "DEF205N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 6,
+    "name": "Boa constrictora",
+    "questionFile": "QUE206N.AIF",
+    "answerFile": "DEF206N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 7,
+    "name": "Tarsero",
+    "questionFile": "QUE207N.AIF",
+    "answerFile": "DEF207N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 8,
+    "name": "Cálao",
+    "questionFile": "QUE208N.AIF",
+    "answerFile": "DEF208N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 9,
+    "name": "Orangután",
+    "questionFile": "QUE209N.AIF",
+    "answerFile": "DEF209N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 10,
+    "name": "Mono narigudo",
+    "questionFile": "QUE210N.AIF",
+    "answerFile": "DEF210N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 11,
+    "name": "Escarabajo rinoceronte",
+    "questionFile": "QUE211N.AIF",
+    "answerFile": "DEF211N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 12,
+    "name": "Rana cornuda",
+    "questionFile": "QUE212N.AIF",
+    "answerFile": "DEF212N.AIF"
+  },
+  {
+    "room": 2,
+    "animal": 13,
+    "name": "Oso hormiguero",
+    "questionFile": "QUE213N.AIF",
+    "answerFile": "DEF213N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 1,
+    "name": "León",
+    "questionFile": "QUE301N.AIF",
+    "answerFile": "DEF301N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 2,
+    "name": "Hipopótamo",
+    "questionFile": "QUE303N.AIF",
+    "answerFile": "DEF303N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 3,
+    "name": "Jirafa",
+    "questionFile": "QUE304N.AIF",
+    "answerFile": "DEF304N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 4,
+    "name": "Elefante",
+    "questionFile": "QUE305N.AIF",
+    "answerFile": "DEF305N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 5,
+    "name": "Antílope",
+    "questionFile": "QUE307N.AIF",
+    "answerFile": "DEF307N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 6,
+    "name": "Guepardo",
+    "questionFile": "QUE308N.AIF",
+    "answerFile": "DEF308N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 7,
+    "name": "Cebra",
+    "questionFile": "QUE309N.AIF",
+    "answerFile": "DEF309N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 8,
+    "name": "Pájaro tejedor",
+    "questionFile": "QUE310N.AIF",
+    "answerFile": "DEF310N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 9,
+    "name": "Rinoceronte",
+    "questionFile": "QUE311N.AIF",
+    "answerFile": "DEF311N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 10,
+    "name": "Babuino",
+    "questionFile": "QUE312N.AIF",
+    "answerFile": "DEF312N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 11,
+    "name": "Flamenco",
+    "questionFile": "QUE314N.AIF",
+    "answerFile": "DEF314N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 12,
+    "name": "Perrito de la pradera",
+    "questionFile": "QUE315N.AIF",
+    "answerFile": "DEF315N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 13,
+    "name": "Termita",
+    "questionFile": "QUE316N.AIF",
+    "answerFile": "DEF316N.AIF"
+  },
+  {
+    "room": 3,
+    "animal": 14,
+    "name": "Pelícano",
+    "questionFile": "QUE317N.AIF",
+    "answerFile": "DEF317N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 1,
+    "name": "Monstruo de Gila",
+    "questionFile": "QUE401N.AIF",
+    "answerFile": "DEF401N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 2,
+    "name": "Dromedario",
+    "questionFile": "QUE402N.AIF",
+    "answerFile": "DEF402N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 3,
+    "name": "Lechuza",
+    "questionFile": "QUE403N.AIF",
+    "answerFile": "DEF403N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 4,
+    "name": "Tortuga del desierto",
+    "questionFile": "QUE404N.AIF",
+    "answerFile": "DEF404N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 5,
+    "name": "Serpiente de cascabel",
+    "questionFile": "QUE405N.AIF",
+    "answerFile": "DEF405N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 6,
+    "name": "Zorro del desierto",
+    "questionFile": "QUE406N.AIF",
+    "answerFile": "DEF406N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 7,
+    "name": "Jerbo",
+    "questionFile": "QUE407N.AIF",
+    "answerFile": "DEF407N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 8,
+    "name": "Águila",
+    "questionFile": "QUE408N.AIF",
+    "answerFile": "DEF408N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 9,
+    "name": "Avestruz",
+    "questionFile": "QUE409N.AIF",
+    "answerFile": "DEF409N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 10,
+    "name": "Escorpión",
+    "questionFile": "QUE410N.AIF",
+    "answerFile": "DEF410N.AIF"
+  },
+  {
+    "room": 4,
+    "animal": 11,
+    "name": "Araña",
+    "questionFile": "QUE411N.AIF",
+    "answerFile": "DEF411N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 1,
+    "name": "Albatros",
+    "questionFile": "QUE501N.AIF",
+    "answerFile": "DEF501N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 2,
+    "name": "Estrella de mar",
+    "questionFile": "QUE502N.AIF",
+    "answerFile": "DEF502N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 3,
+    "name": "Delfín",
+    "questionFile": "QUE503N.AIF",
+    "answerFile": "DEF503N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 4,
+    "name": "Ballena azul",
+    "questionFile": "QUE504N.AIF",
+    "answerFile": "DEF504N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 5,
+    "name": "Vieira",
+    "questionFile": "QUE505N.AIF",
+    "answerFile": "DEF505N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 6,
+    "name": "Tortuga marina",
+    "questionFile": "QUE506N.AIF",
+    "answerFile": "DEF506N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 7,
+    "name": "Caracol tritón",
+    "questionFile": "QUE508N.AIF",
+    "answerFile": "DEF508N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 8,
+    "name": "Cangrejo ermitaño",
+    "questionFile": "QUE509N.AIF",
+    "answerFile": "DEF509N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 9,
+    "name": "Tiburón",
+    "questionFile": "QUE510N.AIF",
+    "answerFile": "DEF510N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 10,
+    "name": "Pez volador",
+    "questionFile": "QUE511N.AIF",
+    "answerFile": "DEF511N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 11,
+    "name": "Orca",
+    "questionFile": "QUE512N.AIF",
+    "answerFile": "DEF512N.AIF"
+  },
+  {
+    "room": 5,
+    "animal": 12,
+    "name": "Cangrejo de la costa",
+    "questionFile": "QUE513N.AIF",
+    "answerFile": "DEF513N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 1,
+    "name": "Anémona y pez payaso",
+    "questionFile": "QUE601N.AIF",
+    "answerFile": "DEF601N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 2,
+    "name": "Pez pescador",
+    "questionFile": "QUE602N.AIF",
+    "answerFile": "DEF602N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 3,
+    "name": "Sepia",
+    "questionFile": "QUE603N.AIF",
+    "answerFile": "DEF603N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 4,
+    "name": "Serpiente marina",
+    "questionFile": "QUE604N.AIF",
+    "answerFile": "DEF604N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 5,
+    "name": "Cangrejo",
+    "questionFile": "QUE605N.AIF",
+    "answerFile": "DEF605N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 6,
+    "name": "Erizo de mar",
+    "questionFile": "QUE606N.AIF",
+    "answerFile": "DEF606N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 7,
+    "name": "Caballito de mar",
+    "questionFile": "QUE607N.AIF",
+    "answerFile": "DEF607N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 8,
+    "name": "Langosta",
+    "questionFile": "QUE608N.AIF",
+    "answerFile": "DEF608N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 9,
+    "name": "Pez erizo",
+    "questionFile": "QUE609N.AIF",
+    "answerFile": "DEF609N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 10,
+    "name": "Medusa",
+    "questionFile": "QUE610N.AIF",
+    "answerFile": "DEF610N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 11,
+    "name": "Manatí",
+    "questionFile": "QUE611N.AIF",
+    "answerFile": "DEF611N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 12,
+    "name": "Pez plano",
+    "questionFile": "QUE612N.AIF",
+    "answerFile": "DEF612N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 13,
+    "name": "Tiburón martillo",
+    "questionFile": "QUE613N.AIF",
+    "answerFile": "DEF613N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 14,
+    "name": "Raya eléctrica",
+    "questionFile": "QUE614N.AIF",
+    "answerFile": "DEF614N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 15,
+    "name": "Pulpo",
+    "questionFile": "QUE615N.AIF",
+    "answerFile": "DEF615N.AIF"
+  },
+  {
+    "room": 6,
+    "animal": 16,
+    "name": "Almeja gigante",
+    "questionFile": "QUE616N.AIF",
+    "answerFile": "DEF616N.AIF"
+  },
+  {
+    "room": 7,
+    "animal": 1,
+    "name": "Foca",
+    "questionFile": "QUE701N.AIF",
+    "answerFile": "DEF701N.AIF"
+  },
+  {
+    "room": 7,
+    "animal": 2,
+    "name": "Oso polar",
+    "questionFile": "QUE702N.AIF",
+    "answerFile": "DEF702N.AIF"
+  },
+  {
+    "room": 7,
+    "animal": 3,
+    "name": "Morsa",
+    "questionFile": "QUE704N.AIF",
+    "answerFile": "DEF704N.AIF"
+  },
+  {
+    "room": 7,
+    "animal": 4,
+    "name": "Beluga",
+    "questionFile": "QUE705N.AIF",
+    "answerFile": "DEF705N.AIF"
+  },
+  {
+    "room": 7,
+    "animal": 5,
+    "name": "Zorro ártico",
+    "questionFile": "QUE706N.AIF",
+    "answerFile": "DEF706N.AIF"
+  },
+  {
+    "room": 7,
+    "animal": 6,
+    "name": "Págalo",
+    "questionFile": "QUE707N.AIF",
+    "answerFile": "DEF707N.AIF"
+  },
+  {
+    "room": 7,
+    "animal": 7,
+    "name": "Pingüino",
+    "questionFile": "QUE708N.AIF",
+    "answerFile": "DEF708N.AIF"
+  },
+  {
+    "room": 7,
+    "animal": 8,
+    "name": "Ballena franca",
+    "questionFile": "QUE709N.AIF",
+    "answerFile": "DEF709N.AIF"
+  },
+  {
+    "room": 7,
+    "animal": 9,
+    "name": "Narval",
+    "questionFile": "QUE710N.AIF",
+    "answerFile": "DEF710N.AIF"
+  },
+  {
+    "room": 7,
+    "animal": 10,
+    "name": "Elefante marino",
+    "questionFile": "QUE711N.AIF",
+    "answerFile": "DEF711N.AIF"
+  },
+  {
+    "room": 8,
+    "animal": 1,
+    "name": "Lagarto de collar",
+    "questionFile": "QUE801N.AIF",
+    "answerFile": "DEF801N.AIF"
+  },
+  {
+    "room": 8,
+    "animal": 2,
+    "name": "Emú",
+    "questionFile": "QUE802N.AIF",
+    "answerFile": "DEF802N.AIF"
+  },
+  {
+    "room": 8,
+    "animal": 3,
+    "name": "Koala",
+    "questionFile": "QUE803N.AIF",
+    "answerFile": "DEF803N.AIF"
+  },
+  {
+    "room": 8,
+    "animal": 4,
+    "name": "Diablo de Tasmania",
+    "questionFile": "QUE805N.AIF",
+    "answerFile": "DEF805N.AIF"
+  },
+  {
+    "room": 8,
+    "animal": 5,
+    "name": "Equidna",
+    "questionFile": "QUE806N.AIF",
+    "answerFile": "DEF806N.AIF"
+  },
+  {
+    "room": 8,
+    "animal": 6,
+    "name": "Canguro",
+    "questionFile": "QUE807N.AIF",
+    "answerFile": "DEF807N.AIF"
+  },
+  {
+    "room": 8,
+    "animal": 7,
+    "name": "Kiwi",
+    "questionFile": "QUE809N.AIF",
+    "answerFile": "DEF809N.AIF"
+  },
+  {
+    "room": 8,
+    "animal": 8,
+    "name": "Ornitorrinco",
+    "questionFile": "QUE810N.AIF",
+    "answerFile": "DEF810N.AIF"
+  },
+  {
+    "room": 8,
+    "animal": 9,
+    "name": "Tilacino",
+    "questionFile": "QUE804N.AIF",
+    "answerFile": "DEF804N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 1,
+    "name": "Araña",
+    "questionFile": "QUE901N.AIF",
+    "answerFile": "DEF901N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 2,
+    "name": "Abeja",
+    "questionFile": "QUE902N.AIF",
+    "answerFile": "DEF902N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 3,
+    "name": "Gato",
+    "questionFile": "QUE903N.AIF",
+    "answerFile": "DEF903N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 4,
+    "name": "Perro",
+    "questionFile": "QUE904N.AIF",
+    "answerFile": "DEF904N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 5,
+    "name": "Cerdo",
+    "questionFile": "QUE905N.AIF",
+    "answerFile": "DEF905N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 6,
+    "name": "Vaca",
+    "questionFile": "QUE906N.AIF",
+    "answerFile": "DEF906N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 7,
+    "name": "Caballo",
+    "questionFile": "QUE907N.AIF",
+    "answerFile": "DEF907N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 8,
+    "name": "Rata",
+    "questionFile": "QUE908N.AIF",
+    "answerFile": "DEF908N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 9,
+    "name": "Oveja y cabra",
+    "questionFile": "QUE909N.AIF",
+    "answerFile": "DEF909N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 10,
+    "name": "Cigüeña",
+    "questionFile": "QUE910N.AIF",
+    "answerFile": "DEF910N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 11,
+    "name": "Ganso",
+    "questionFile": "QUE911N.AIF",
+    "answerFile": "DEF911N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 12,
+    "name": "Golondrina",
+    "questionFile": "QUE912N.AIF",
+    "answerFile": "DEF912N.AIF"
+  },
+  {
+    "room": 9,
+    "animal": 13,
+    "name": "Libélula",
+    "questionFile": "QUE913N.AIF",
+    "answerFile": "DEF913N.AIF"
+  }
+]

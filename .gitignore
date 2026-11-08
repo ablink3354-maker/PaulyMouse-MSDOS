@@ -33,3 +33,16 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Pauly: generated/private/local files
+/dist/
+/vendor/
+/signing/
+__pycache__/
+*.pyc
+.env*
+*.pem
+*.p12
+*.pfx
+/audio-models/
+/work/

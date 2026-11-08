@@ -1,0 +1,10 @@
+on exitFrame
+    put "Empty=", EMPTY
+    put "Backspace=", BACKSPACE
+    put "Enter=", ENTER
+    put "False=", 0
+    put "True=", 1
+    put "Quote=", QUOTE
+    put "Return=", RETURN
+    put "Tab=", TAB
+end

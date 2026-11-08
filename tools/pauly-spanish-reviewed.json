@@ -1,0 +1,668 @@
+{
+  "1-1": {
+    "name": "Pájaro carpintero",
+    "question": "¿Por qué el pájaro carpintero no se lastima la cabeza al hacer agujeros en los troncos?",
+    "answer": "Mi cabeza y mi pico están adaptados para golpear la madera. Con mi pico puntiagudo abro agujeros en los árboles. Además, tengo pequeñas plumas que protegen mis orificios nasales e impiden que entren las astillas que saltan mientras trabajo. ¡Menos mal, porque a veces golpeo con mucha fuerza!",
+    "reviewed": true
+  },
+  "1-2": {
+    "name": "Oso",
+    "question": "¿Por qué algunos osos duermen durante el invierno?",
+    "answer": "Para conservar energía, muchos osos pasan el invierno en un refugio. En esos meses es más difícil encontrar alimento. Mientras descansan, su respiración se vuelve más lenta y su temperatura corporal disminuye un poco. Pueden pasar mucho tiempo sin comer y casi sin moverse. Sin embargo, pueden despertarse si alguien los molesta. No todos los osos pasan el invierno de la misma manera: depende de la especie, el clima y la disponibilidad de alimento.",
+    "reviewed": true
+  },
+  "1-3": {
+    "name": "Topo",
+    "question": "¿Cómo construyen los topos sus túneles bajo la tierra?",
+    "answer": "Somos excavadores incansables. Para abrir un túnel usamos nuestros fuertes hombros y nuestras patas delanteras, que apartan la tierra con rapidez. Con las patas traseras nos apoyamos y empujamos la tierra que queda detrás. Si cae un poco de arena, la retiramos y seguimos trabajando. Aunque somos pequeños, tenemos mucha fuerza para nuestro tamaño. Nuestro olfato está muy desarrollado y nos ayuda a orientarnos bajo tierra, donde la vista resulta menos útil.",
+    "reviewed": true
+  },
+  "1-4": {
+    "name": "Lobo",
+    "question": "¿Cómo consiguen su alimento los lobos?",
+    "answer": "Cazamos en manadas, que son grupos familiares. Cada lobo tiene un papel dentro del grupo. Durante la cacería podemos recorrer grandes distancias y trabajamos juntos para conseguir alimento. La cooperación nos permite capturar presas que serían difíciles para un lobo solo. Aprovechamos gran parte de lo que encontramos y compartimos el alimento con otros miembros de la manada.",
+    "reviewed": true
+  },
+  "1-5": {
+    "name": "Tejón",
+    "question": "¿Cómo y de qué se alimentan los tejones?",
+    "answer": "Existen distintas especies de tejones y no todas comen lo mismo. Algunas buscan pequeños animales, como ratones, ardillas o conejos. Otras comen muchos gusanos y pueden encontrar decenas de lombrices durante una noche. Entre nuestros parientes también está el tejón de la miel, que busca larvas y miel en los panales. Nuestros fuertes cuerpos y nuestras garras nos ayudan a excavar y encontrar comida.",
+    "reviewed": true
+  },
+  "1-6": {
+    "name": "Alce",
+    "question": "¿Qué significa que un alce tenga una nueva corona?",
+    "answer": "Mi corona es la cornamenta que llevo sobre la cabeza. La pierdo y vuelve a crecer cada año. Cuando comienza a desarrollarse, está cubierta por una piel suave, parecida al terciopelo, con muchos vasos sanguíneos que la alimentan. Una vez que termina de crecer, esa cubierta se seca y me froto contra los árboles para desprenderla. Así aparece una nueva cornamenta. Por eso se dice que tengo una nueva corona.",
+    "reviewed": true
+  },
+  "1-7": {
+    "name": "Búho",
+    "question": "¿Por qué muchos búhos buscan alimento de noche?",
+    "answer": "Mis ojos están adaptados para aprovechar la poca luz de la noche. También tengo un oído muy sensible que me ayuda a localizar pequeños animales, incluso cuando casi no puedo verlos. Por eso muchos búhos preferimos cazar al anochecer o durante la noche. No todos los búhos tienen exactamente los mismos horarios: algunas especies también están activas durante el día.",
+    "reviewed": true
+  },
+  "1-8": {
+    "name": "Castor",
+    "question": "¿Por qué los castores cortan árboles y construyen presas?",
+    "answer": "Somos roedores que pasamos mucho tiempo en el agua. Con nuestros fuertes dientes cortamos ramas y árboles para construir refugios y, en muchos lugares, presas. Las presas ayudan a formar estanques donde podemos nadar y mantener bajo el agua la entrada de nuestra casa. Así es más difícil que un enemigo llegue hasta nosotros. También usamos madera, ramas y barro para reforzar nuestras construcciones.",
+    "reviewed": true
+  },
+  "1-9": {
+    "name": "Conejo",
+    "question": "¿Por qué los conejos tienen las orejas largas?",
+    "answer": "Para sobrevivir y detectar el peligro dependemos mucho del oído y del olfato. Nuestras grandes orejas nos ayudan a percibir sonidos muy suaves y a descubrir de dónde vienen. Podemos moverlas para escuchar lo que sucede a nuestro alrededor. Así detectamos a tiempo la presencia de un posible enemigo.",
+    "reviewed": true
+  },
+  "1-10": {
+    "name": "Ardilla",
+    "question": "¿Cómo abre una ardilla las nueces que recoge?",
+    "answer": "Aunque somos pequeñas, podemos abrir nueces de cáscara muy dura. Nuestros dientes delanteros se llaman incisivos: son fuertes y crecen durante toda la vida. Al roer los mantenemos desgastados. Las personas, en cambio, cambian los dientes de leche por dientes permanentes, que deben cuidar muy bien. A muchas ardillas nos gusta vivir cerca de los robles porque sus bellotas son uno de nuestros alimentos favoritos.",
+    "reviewed": true
+  },
+  "1-11": {
+    "name": "Zorro",
+    "question": "¿Por qué algunos granjeros desconfían de los zorros?",
+    "answer": "Somos animales muy hábiles para buscar comida. A veces entramos en los gallineros y atrapamos gallinas o conejos. Aunque lo hacemos para alimentarnos, al granjero no le gusta perder a sus animales. Los gallineros bien protegidos ayudan a evitar esos encuentros. En la naturaleza también comemos pequeños animales y otros alimentos que encontramos.",
+    "reviewed": true
+  },
+  "1-12": {
+    "name": "Rana",
+    "question": "¿Por qué se escuchan ranas cuando el ambiente está húmedo?",
+    "answer": "Somos anfibios y necesitamos lugares con humedad. La lluvia y el aire húmedo favorecen nuestra actividad. En muchas especies, los machos croan para atraer a las hembras y comunicarse con otras ranas. Por eso sus coros pueden escucharse cerca de charcos y estanques, especialmente durante la temporada de reproducción.",
+    "reviewed": true
+  },
+  "1-13": {
+    "name": "Caracol",
+    "question": "¿Por qué los caracoles dejan un rastro pegajoso?",
+    "answer": "En la parte inferior de mi cuerpo tengo un pie musculoso que produce una sustancia llamada moco. Ese moco me ayuda a deslizarme y protege mi cuerpo mientras avanzo. El rastro brillante que queda detrás es la huella de esa sustancia. Gracias a ella puedo moverme sobre distintas superficies.",
+    "reviewed": true
+  },
+  "2-1": {
+    "name": "Camaleón",
+    "question": "¿Cómo cambia de color un camaleón?",
+    "answer": "Mi piel tiene células especiales que producen y reflejan colores. El color que muestro puede cambiar con la luz, la temperatura y mi estado. También me sirve para comunicarme con otros camaleones. Aunque mucha gente cree que copiamos cualquier color del lugar donde estamos, nuestros cambios no funcionan como una pintura que imita todo lo que nos rodea.",
+    "reviewed": true
+  },
+  "2-2": {
+    "name": "Cocodrilo",
+    "question": "¿Qué características distinguen a los cocodrilos de otros reptiles?",
+    "answer": "Dentro de mi cabeza, los conductos por donde pasa el aire están separados de buena parte de la boca. Esa adaptación resulta muy útil cuando permanezco cerca del agua. Mi corazón tiene cuatro cavidades, una característica especial entre los reptiles actuales. Los cocodrilos también estamos emparentados con las aves, aunque a primera vista parezcamos muy diferentes.",
+    "reviewed": true
+  },
+  "2-3": {
+    "name": "Hormiga",
+    "question": "¿Las hormigas han tenido alas alguna vez?",
+    "answer": "Las reinas jóvenes y los machos de muchas especies tienen alas. Cuando llega el momento de reproducirse, salen del hormiguero y realizan un vuelo nupcial. Después del apareamiento, el macho suele vivir poco tiempo. La joven reina busca un lugar adecuado para comenzar un nuevo hormiguero y pierde las alas. Allí pone sus huevos y empieza a formarse una nueva colonia. Las obreras que vemos trabajando normalmente no tienen alas.",
+    "reviewed": true
+  },
+  "2-4": {
+    "name": "Ardilla voladora",
+    "question": "¿La ardilla voladora vuela de verdad?",
+    "answer": "No vuelo como un pájaro: planeo. Entre mis patas se extiende una membrana de piel. Cuando salto desde un árbol y abro las patas, esa membrana se estira y funciona de manera parecida a un pequeño paracaídas. Así puedo bajar más despacio y desplazarme hacia otro árbol. Mi cola y mis movimientos me ayudan a dirigir el recorrido y a aterrizar.",
+    "reviewed": true
+  },
+  "2-5": {
+    "name": "Tigre",
+    "question": "¿Para qué le sirven las rayas al tigre?",
+    "answer": "Mis rayas me ayudan a pasar desapercibido entre la vegetación y las sombras. Gracias a ese camuflaje puedo acercarme con cuidado a una presa. Si descubre mi presencia y se pone alerta, debo decidir si aún puedo atraparla. Cuando un enemigo me amenaza, puedo bajar las orejas, mostrar mis largos dientes y gruñir para advertirle que se aleje.",
+    "reviewed": true
+  },
+  "2-6": {
+    "name": "Boa constrictora",
+    "question": "¿Las serpientes están emparentadas con los lagartos?",
+    "answer": "Sí. Las serpientes y los lagartos forman parte de un gran grupo de reptiles. Algunas serpientes, como las boas y las pitones, conservan pequeños restos de huesos relacionados con las patas de sus antepasados. Esas señales, junto con otras características, ayudan a los científicos a estudiar cómo evolucionaron las serpientes.",
+    "reviewed": true
+  },
+  "2-7": {
+    "name": "Tarsero",
+    "question": "¿Por qué los tarseros saltan tan bien?",
+    "answer": "Soy un primate pequeño, pero mis patas traseras son largas y fuertes. Me permiten impulsarme de una rama a otra. Mi cola me ayuda a conservar el equilibrio y mis manos y pies se sujetan muy bien a las ramas. Con esas adaptaciones puedo moverme con agilidad entre los árboles.",
+    "reviewed": true
+  },
+  "2-8": {
+    "name": "Cálao",
+    "question": "¿Cómo vuela el cálao con un pico tan grande?",
+    "answer": "Mi pico parece muy pesado, pero su interior tiene una estructura ligera con espacios de aire. Por eso pesa menos de lo que imaginas. Con él puedo alcanzar y recoger alimento. Aunque es una parte muy llamativa de mi cuerpo, no me impide volar de un árbol a otro.",
+    "reviewed": true
+  },
+  "2-9": {
+    "name": "Orangután",
+    "question": "¿Por qué se considera inteligente al orangután?",
+    "answer": "Los orangutanes tenemos una gran capacidad para aprender y recordar. Observamos lo que ocurre a nuestro alrededor y podemos resolver algunos problemas. También aprendemos de otros orangutanes y usamos distintos gestos y sonidos para comunicarnos. Nuestro comportamiento y algunas características de nuestro cuerpo muestran el parentesco que compartimos con los otros grandes simios, incluidos los seres humanos.",
+    "reviewed": true
+  },
+  "2-10": {
+    "name": "Mono narigudo",
+    "question": "¿Para qué le sirve la nariz al mono narigudo?",
+    "answer": "Vivo en la isla de Borneo y como sobre todo hojas y otros alimentos vegetales. Los machos tenemos una nariz grande, que suele crecer al llegar a la edad adulta. Esa nariz participa en nuestra comunicación y hace más llamativos algunos de nuestros sonidos. Aunque mi aspecto resulte curioso, cada parte de mi cuerpo forma parte de mi adaptación a la vida entre los árboles y cerca del agua.",
+    "reviewed": true
+  },
+  "2-11": {
+    "name": "Escarabajo rinoceronte",
+    "question": "¿Para qué sirven los pequeños pelos de la boca del escarabajo rinoceronte?",
+    "answer": "Las estructuras de mi boca me ayudan a recoger líquidos, como la savia que sale de los árboles. La savia es una fuente de alimento para muchos escarabajos adultos. Aunque mi cuerno llame mucho la atención, mi boca también tiene adaptaciones importantes para poder comer.",
+    "reviewed": true
+  },
+  "2-12": {
+    "name": "Rana cornuda",
+    "question": "¿Por qué la rana cornuda es una gran cazadora?",
+    "answer": "Mi boca es muy ancha y puedo capturar presas relativamente grandes para mi tamaño. Me quedo quieta y espero a que un pequeño animal pase cerca. Entonces lo atrapo rápidamente. Puedo alimentarme de insectos y de otros animales pequeños. La forma de mi cabeza y de mis párpados me ayuda a permanecer escondida mientras espero.",
+    "reviewed": true
+  },
+  "2-13": {
+    "name": "Oso hormiguero",
+    "question": "¿Cómo atrapa las hormigas el oso hormiguero?",
+    "answer": "Soy especialista en buscar hormigas y termitas. Abro una parte del nido con mis fuertes garras y acerco mi hocico al agujero. Después introduzco mi lengua larga y pegajosa. Los insectos se adhieren a ella y los llevo hasta mi boca. Repito el movimiento con rapidez y así puedo comer muchos insectos.",
+    "reviewed": true
+  },
+  "3-1": {
+    "name": "León",
+    "question": "¿Cómo protege el león su territorio y su grupo?",
+    "answer": "Vivo en un grupo de leones y leonas. Los machos pueden competir por el acceso al grupo y a su territorio; a veces eso provoca enfrentamientos. Cuando un rival consigue imponerse, el otro puede tener que marcharse. Las leonas realizan gran parte de la cacería y los miembros del grupo comparten la vida en la manada. Mi rugido se escucha a gran distancia y sirve para comunicar mi presencia. Como todos los animales, también necesito conseguir agua.",
+    "reviewed": true
+  },
+  "3-2": {
+    "name": "Hipopótamo",
+    "question": "¿Puede un hipopótamo vivir siempre bajo el agua?",
+    "answer": "No. Soy un mamífero y necesito respirar aire. Puedo permanecer sumergido durante varios minutos, pero después debo subir a la superficie. Mis ojos, orejas y orificios nasales están cerca de la parte superior de la cabeza, de modo que puedo mantener casi todo el cuerpo dentro del agua y seguir atento a lo que sucede afuera. Cuando me sumerjo cierro los orificios nasales para que no entre agua.",
+    "reviewed": true
+  },
+  "3-3": {
+    "name": "Jirafa",
+    "question": "¿Para qué le sirve a la jirafa su cuello largo?",
+    "answer": "Mi cuello largo me permite alcanzar hojas situadas muy arriba en los árboles, donde otros animales no pueden llegar fácilmente. A lo largo de muchas generaciones, las jirafas fueron evolucionando y desarrollaron las características que hoy vemos. No me crece el cuello por estirarlo: es una adaptación heredada de mis antepasados. También uso el cuello para observar el paisaje y, en los machos, para competir con otros machos.",
+    "reviewed": true
+  },
+  "3-4": {
+    "name": "Elefante",
+    "question": "¿Para qué le sirven al elefante la trompa y los colmillos?",
+    "answer": "Mi trompa es una parte muy flexible del cuerpo que combina la nariz con el labio superior. La uso para respirar, oler, recoger alimentos y llevar agua a la boca. También puedo mover objetos y comunicarme con otros elefantes. Los colmillos son dientes que siguen creciendo y me sirven para excavar, retirar corteza y realizar otras tareas. Mi fuerza y mi trompa me permiten aprovechar alimentos que serían difíciles de conseguir de otra manera.",
+    "reviewed": true
+  },
+  "3-5": {
+    "name": "Antílope",
+    "question": "¿Cómo utiliza sus cuernos el antílope?",
+    "answer": "Los machos de muchas especies usan los cuernos para competir con otros machos durante la reproducción. También pueden servir para defenderse. Somos herbívoros y pasamos gran parte del tiempo buscando plantas. Cuando aparece un enemigo, nuestra rapidez y nuestra atención son muy importantes para escapar. En cada especie, la forma y el tamaño de los cuernos pueden ser distintos.",
+    "reviewed": true
+  },
+  "3-6": {
+    "name": "Guepardo",
+    "question": "¿Por qué puede correr tan rápido el guepardo?",
+    "answer": "Tengo patas largas y fuertes, una columna vertebral muy flexible y un cuerpo ligero. Mis garras me ayudan a sujetarme al suelo mientras corro y la cola contribuye al equilibrio al cambiar de dirección. Esas adaptaciones me permiten acelerar con rapidez y alcanzar velocidades extraordinarias durante recorridos cortos. Sin embargo, no puedo mantener ese esfuerzo durante mucho tiempo.",
+    "reviewed": true
+  },
+  "3-7": {
+    "name": "Cebra",
+    "question": "¿Para qué le sirven las rayas a la cebra?",
+    "answer": "Mis rayas forman un dibujo distinto en cada individuo. Ese patrón ayuda a reconocernos y es una de nuestras características más llamativas. Los científicos estudian varias funciones de las rayas, entre ellas cómo dificultan que algunos insectos se posen sobre nosotros. Cuando estamos en grupo, el conjunto de rayas también puede complicar la tarea de seguir a un solo animal. No todas las cebras tienen exactamente el mismo dibujo.",
+    "reviewed": true
+  },
+  "3-8": {
+    "name": "Pájaro tejedor",
+    "question": "¿Cómo construye su nido el pájaro tejedor?",
+    "answer": "Uso mi pico y mis patas para entrelazar tiras de hierba y otras fibras vegetales. Con ellas construyo una estructura tejida. Poco a poco la rodeo de más materiales hasta formar un nido cerrado y resistente. Dejo una entrada por la que puedo entrar y salir. La forma y el lugar donde cuelga el nido dependen de la especie de tejedor.",
+    "reviewed": true
+  },
+  "3-9": {
+    "name": "Rinoceronte",
+    "question": "¿Por qué permite el rinoceronte que algunas aves se posen sobre él?",
+    "answer": "Algunas aves, como los picabueyes, buscan pequeños organismos sobre la piel de grandes mamíferos. Al comer ciertos parásitos pueden ayudar a retirar visitantes molestos. Yo también me revuelco en el lodo para cubrir y cuidar mi piel. La relación con las aves no siempre es igual: depende de lo que hagan y de lo que encuentren sobre mi cuerpo.",
+    "reviewed": true
+  },
+  "3-10": {
+    "name": "Babuino",
+    "question": "¿Cómo se organiza un grupo de babuinos?",
+    "answer": "Los babuinos vivimos en grupos con relaciones sociales complejas. La edad, la fuerza, las alianzas y las relaciones familiares influyen en la posición de cada individuo. Cuando surge una disputa podemos mostrar los dientes, hacer gestos o emitir sonidos. A veces hay peleas, pero también usamos muchas señales para evitar enfrentamientos. El tamaño de los dientes por sí solo no explica toda nuestra organización.",
+    "reviewed": true
+  },
+  "3-11": {
+    "name": "Flamenco",
+    "question": "¿Por qué viven los flamencos en grandes colonias?",
+    "answer": "Vivir juntos nos ayuda a mantenernos atentos al peligro y a encontrar lugares adecuados para alimentarnos y reproducirnos. Algunas colonias reúnen miles de aves. Si un flamenco detecta una amenaza, otros también pueden ponerse alerta. Para comer, sumergimos el pico y filtramos el agua. Las pequeñas estructuras del pico retienen el alimento, como algas y pequeños animales acuáticos.",
+    "reviewed": true
+  },
+  "3-12": {
+    "name": "Perrito de la pradera",
+    "question": "¿Por qué el perrito de la pradera amontona tierra junto a su madriguera?",
+    "answer": "Soy un roedor emparentado con las ardillas. Mi llamada de alarma recuerda al ladrido de un perro, y por eso me llaman perrito de la pradera. Construimos madrigueras bajo tierra y hacemos montículos cerca de sus entradas. Esos montículos ayudan a proteger los túneles de la lluvia y también nos ofrecen un lugar desde donde observar los alrededores.",
+    "reviewed": true
+  },
+  "3-13": {
+    "name": "Termita",
+    "question": "¿Cómo consigue una termita alimentarse de madera?",
+    "answer": "La madera contiene sustancias difíciles de digerir. Muchas termitas contamos con pequeños microorganismos en el aparato digestivo que nos ayudan a aprovecharla. Ellos descomponen componentes de la madera y ambos obtenemos alimento. A una relación de colaboración entre seres vivos se le llama simbiosis. Según la especie, podemos alimentarnos de madera seca, madera húmeda, restos vegetales u otros materiales.",
+    "reviewed": true
+  },
+  "3-14": {
+    "name": "Pelícano",
+    "question": "¿Cómo consigue su alimento el pelícano?",
+    "answer": "Tengo una bolsa flexible en la parte inferior del pico. La uso para recoger peces y agua. Después dejo salir el agua y me trago el alimento. Algunas especies de pelícanos pescan en grupo: rodean a los peces y los conducen hacia un lugar donde resulte más fácil capturarlos. Otras especies también se lanzan al agua desde el aire para pescar.",
+    "reviewed": true
+  },
+  "4-1": {
+    "name": "Monstruo de Gila",
+    "question": "¿Dónde se produce el veneno del monstruo de Gila?",
+    "answer": "Mis glándulas de veneno están en la mandíbula inferior. En muchas serpientes venenosas, las glándulas están en la parte superior de la cabeza. Uso mis dientes y mi mordida para introducir el veneno. Soy uno de los lagartos que producen veneno; mis parientes, los lagartos enchaquirados, también lo hacen. Como otros animales venenosos, debo ser observado desde una distancia segura.",
+    "reviewed": true
+  },
+  "4-2": {
+    "name": "Dromedario",
+    "question": "¿Cómo puede pasar tanto tiempo sin beber el dromedario?",
+    "answer": "Mi cuerpo está adaptado para conservar agua y soportar las condiciones del desierto. Puedo tolerar una pérdida de agua mayor que muchos otros mamíferos y recuperarla cuando encuentro dónde beber. Mi joroba almacena grasa, no agua. Esa reserva me ayuda cuando escasea el alimento. La cantidad de tiempo que puedo pasar sin beber depende del calor, del esfuerzo y de la comida disponible.",
+    "reviewed": true
+  },
+  "4-3": {
+    "name": "Lechuza",
+    "question": "¿Qué distingue a la lechuza de otros búhos?",
+    "answer": "Muchas lechuzas tienen un disco de plumas alrededor de la cara que ayuda a dirigir los sonidos hacia los oídos. Mis grandes ojos miran hacia adelante y mi oído es muy sensible. Suelo buscar ratones y otros pequeños animales durante la noche. Durante el día descanso en un lugar protegido. Los búhos y las lechuzas forman un grupo de aves con muchas formas y tamaños diferentes.",
+    "reviewed": true
+  },
+  "4-4": {
+    "name": "Tortuga del desierto",
+    "question": "¿Cómo se protege del calor la tortuga del desierto?",
+    "answer": "La temperatura bajo tierra es más estable que la de la superficie. Por eso utilizo refugios y madrigueras para evitar el calor más intenso o el frío. En verano busco lugares donde mantenerme protegida del sol, y cuando las condiciones son extremas reduzco mi actividad. Así aprovecho el agua y la energía que tengo disponibles.",
+    "reviewed": true
+  },
+  "4-5": {
+    "name": "Serpiente de cascabel",
+    "question": "¿Cómo produce su sonido la serpiente de cascabel?",
+    "answer": "Mi cascabel está formado por segmentos secos de queratina en la punta de la cola. Cuando cambio de piel puede añadirse un nuevo segmento. Al mover la cola con mucha rapidez, los segmentos chocan entre sí y producen el sonido característico. Lo utilizo como advertencia cuando me siento amenazada. Ese sonido indica que es mejor darme espacio y alejarse con calma.",
+    "reviewed": true
+  },
+  "4-6": {
+    "name": "Zorro del desierto",
+    "question": "¿Cómo consigue agua el zorro del desierto?",
+    "answer": "Cazo pequeños animales y también puedo comer otros alimentos que encuentro. Parte del agua que necesito está en lo que como. Mi cuerpo está adaptado para conservarla y para soportar la vida en un ambiente seco. Busco refugio durante las horas más calurosas y suelo estar más activo cuando baja la temperatura.",
+    "reviewed": true
+  },
+  "4-7": {
+    "name": "Jerbo",
+    "question": "¿Cómo escapa el jerbo de sus perseguidores?",
+    "answer": "Mis patas traseras son mucho más largas que las delanteras y me permiten dar grandes saltos. Mi cola larga me ayuda a mantener el equilibrio. También puedo cambiar de dirección con rapidez y realizar movimientos que dificultan que un perseguidor siga mi recorrido. Entre saltos y giros consigo alejarme del peligro y llegar a un refugio.",
+    "reviewed": true
+  },
+  "4-8": {
+    "name": "Águila",
+    "question": "¿Cómo puede planear un águila sin mover las alas?",
+    "answer": "Aprovecho corrientes de aire que suben cuando el suelo calienta el aire. Con las alas extendidas, esas corrientes me ayudan a elevarme y a mantenerme en el cielo sin aletear continuamente. Así ahorro energía y puedo observar grandes zonas del terreno mientras busco alimento. Para cambiar de dirección ajusto la posición de las alas y de la cola.",
+    "reviewed": true
+  },
+  "4-9": {
+    "name": "Avestruz",
+    "question": "¿Por qué corre el avestruz en lugar de volar?",
+    "answer": "Soy un ave muy grande y pesada. Mis alas no pueden levantar todo mi cuerpo, pero mis patas largas y fuertes están adaptadas para correr. Gracias a ellas puedo avanzar con rapidez y alejarme de un enemigo. Como sobre todo alimentos vegetales, aunque también puedo comer pequeños animales. Mis alas me ayudan a mantener el equilibrio y forman parte de nuestras exhibiciones.",
+    "reviewed": true
+  },
+  "4-10": {
+    "name": "Escorpión",
+    "question": "¿Por qué tarda un escorpión en comer su presa?",
+    "answer": "Primero capturo a mi presa con las pinzas y, cuando es necesario, uso el aguijón. Antes de aprovechar gran parte de su alimento, debo deshacer sus tejidos con sustancias digestivas. Después absorbo el material que puedo comer. Soy un depredador y me alimento de insectos y de otros animales pequeños que consigo atrapar.",
+    "reviewed": true
+  },
+  "4-11": {
+    "name": "Araña",
+    "question": "¿Cómo nacen y crecen las pequeñas arañas?",
+    "answer": "Nuestra madre protege los huevos dentro de una bolsa de seda. La manera de cuidarlos cambia entre especies. En algunas arañas, las crías suben al cuerpo de la madre y permanecen allí durante sus primeros días. Después se dispersan y comienzan a buscar alimento por su cuenta. Con el crecimiento van desarrollando las habilidades que necesitan para vivir.",
+    "reviewed": true
+  },
+  "5-1": {
+    "name": "Albatros",
+    "question": "¿Cómo puede volar tanto tiempo un albatros sin mover las alas?",
+    "answer": "Mis enormes alas me permiten aprovechar las corrientes de aire sobre el océano. Con pequeños cambios de posición utilizo la energía del viento para planear durante largos recorridos. Como no necesito aletear constantemente, gasto menos energía. Esa manera de volar me ayuda a viajar sobre el mar en busca de alimento.",
+    "reviewed": true
+  },
+  "5-2": {
+    "name": "Estrella de mar",
+    "question": "¿Cómo se mueve una estrella de mar?",
+    "answer": "Debajo de mis brazos tengo muchos pequeños pies que funcionan gracias a un sistema de agua dentro del cuerpo. Con ellos me desplazo y puedo sujetarme. Algunas estrellas también los usan para abrir conchas y alimentarse. Cerca de las puntas de los brazos tengo estructuras que perciben la luz. Muchas estrellas liberan sus huevos y células reproductoras en el agua. Las distintas especies tienen hábitos y alimentos diferentes.",
+    "reviewed": true
+  },
+  "5-3": {
+    "name": "Delfín",
+    "question": "¿Cómo puede nadar tan rápido un delfín?",
+    "answer": "Mi cuerpo tiene una forma alargada y suave que facilita el movimiento en el agua. La cola me impulsa y las aletas me ayudan a dirigir y estabilizar el recorrido. Como soy un mamífero, tengo que subir a la superficie para respirar. La combinación de mi cuerpo, mis músculos y mis movimientos me permite nadar con gran agilidad.",
+    "reviewed": true
+  },
+  "5-4": {
+    "name": "Ballena azul",
+    "question": "¿Qué tan grande puede ser una ballena azul?",
+    "answer": "Soy el animal más grande que conocemos. Una ballena azul adulta puede superar los veinticinco metros de largo y alcanzar un peso enorme. Me alimento principalmente de pequeños crustáceos llamados kril, que filtro con las barbas de mi boca. Vivo en el océano y realizo grandes desplazamientos. Aunque soy gigantesca, necesito protección: la caza del pasado redujo mucho nuestras poblaciones y todavía afrontamos amenazas.",
+    "reviewed": true
+  },
+  "5-5": {
+    "name": "Vieira",
+    "question": "¿Cómo se protege una vieira de sus enemigos?",
+    "answer": "Alrededor del borde de mi cuerpo tengo muchos pequeños ojos que perciben la luz y los cambios del entorno. Así puedo detectar que algo se acerca. Para alejarme de un peligro abro y cierro las valvas con rapidez. Al expulsar agua puedo dar pequeños impulsos y moverme. Mi concha también protege las partes blandas de mi cuerpo.",
+    "reviewed": true
+  },
+  "5-6": {
+    "name": "Tortuga marina",
+    "question": "¿Por qué parece que lloran las tortugas marinas?",
+    "answer": "Mi alimento y el agua de mar contienen sales. Para eliminar parte del exceso tengo unas glándulas especiales cerca de los ojos. La sustancia que expulsan puede parecer una lágrima. Por eso a veces da la impresión de que estoy llorando, aunque es una adaptación que me ayuda a vivir en el mar.",
+    "reviewed": true
+  },
+  "5-7": {
+    "name": "Caracol tritón",
+    "question": "¿Cómo se alimenta el caracol tritón?",
+    "answer": "Soy un molusco depredador. Entre mis presas están algunas estrellas de mar, incluidas las coronas de espinas que comen coral. Utilizo mi boca y mis sustancias digestivas para alimentarme. Por mi relación con esas estrellas formo parte del equilibrio del arrecife. Aunque mi concha es muy bonita, mi función en el ecosistema es mucho más importante que su aspecto.",
+    "reviewed": true
+  },
+  "5-8": {
+    "name": "Cangrejo ermitaño",
+    "question": "¿Por qué cambia de concha un cangrejo ermitaño?",
+    "answer": "Mi abdomen es blando y lo protejo dentro de una concha vacía. Cuando crezco, necesito buscar una casa más grande. Pruebo con cuidado si la entrada y el interior son adecuados. La concha debe permitirme entrar y moverme, pero también protegerme de los enemigos. El cangrejo de los cocoteros es un pariente que usa conchas cuando es pequeño; al crecer deja de necesitarlas de la misma manera.",
+    "reviewed": true
+  },
+  "5-9": {
+    "name": "Tiburón",
+    "question": "¿Por qué algunos tiburones necesitan seguir nadando para respirar?",
+    "answer": "Muchos tiburones obtienen oxígeno cuando el agua pasa por las branquias. Algunas especies dependen del movimiento para que ese flujo sea suficiente y por eso necesitan nadar continuamente. Otras pueden mover el agua por sí mismas y descansar en el fondo. No todos los tiburones respiran exactamente igual. Su cuerpo, sus aletas y su hígado también les ayudan a mantenerse y moverse en el agua.",
+    "reviewed": true
+  },
+  "5-10": {
+    "name": "Pez volador",
+    "question": "¿Un pez volador vuela de verdad?",
+    "answer": "No vuelo como un ave: salgo del agua y planeo. Cuando un enemigo me persigue, tomo velocidad nadando y me impulso hacia afuera. Después extiendo mis grandes aletas, que me ayudan a mantenerme por un tiempo sobre la superficie. Esa maniobra puede alejarme de un perseguidor antes de regresar al agua.",
+    "reviewed": true
+  },
+  "5-11": {
+    "name": "Orca",
+    "question": "¿De qué se alimenta una orca?",
+    "answer": "Soy un depredador marino. Según el grupo al que pertenezco, puedo comer peces, calamares o mamíferos marinos. Algunas orcas cazan focas y otras se especializan en ciertos peces. Trabajamos en grupos y aprendemos técnicas de caza de otros miembros de la familia. La cooperación y la comunicación son muy importantes en nuestra vida.",
+    "reviewed": true
+  },
+  "5-12": {
+    "name": "Cangrejo de la costa",
+    "question": "¿Por qué los cangrejos de la costa necesitan volver al agua?",
+    "answer": "Muchos cangrejos buscamos alimento entre rocas y escondites cerca del mar. Respiramos con branquias, que necesitan conservar la humedad para funcionar. Por eso permanecer demasiado tiempo en un lugar seco resulta un problema. El agua y los refugios húmedos nos permiten seguir obteniendo el oxígeno que necesitamos.",
+    "reviewed": true
+  },
+  "6-1": {
+    "name": "Anémona y pez payaso",
+    "question": "¿Qué pez puede vivir entre los tentáculos de una anémona?",
+    "answer": "Algunos peces payaso pueden vivir entre los tentáculos de ciertas anémonas sin recibir sus picaduras. La relación protege al pez de muchos enemigos. A cambio, el pez puede aportar alimento y ayudar a mantener el lugar donde vive. Es un ejemplo de colaboración entre especies, aunque no todos los peces payaso se asocian con cualquier anémona.",
+    "reviewed": true
+  },
+  "6-2": {
+    "name": "Pez pescador",
+    "question": "¿Cómo atrapa su alimento el pez pescador?",
+    "answer": "Tengo un apéndice delante de la cabeza que funciona como un señuelo. En algunos peces pescadores de las profundidades ese señuelo produce luz gracias a organismos que viven asociados con ellos. Cuando una presa se acerca, abro rápidamente la boca y la atrapo. Mi aspecto y mi forma de permanecer escondido también me ayudan a sorprenderla.",
+    "reviewed": true
+  },
+  "6-3": {
+    "name": "Sepia",
+    "question": "¿Cómo utiliza su tinta una sepia?",
+    "answer": "Cuando un enemigo me persigue, puedo expulsar una nube de tinta. Esa nube dificulta que siga viéndome con claridad y me da una oportunidad para escapar. Me muevo con ayuda de mis aletas y también puedo expulsar agua para impulsarme. Las sepias somos parientes de los calamares y los pulpos.",
+    "reviewed": true
+  },
+  "6-4": {
+    "name": "Serpiente marina",
+    "question": "¿Cómo puede vivir una serpiente en el océano?",
+    "answer": "Mi cuerpo y mi cola están adaptados para nadar. La cola aplanada me ayuda a impulsarme y mis pulmones me permiten almacenar aire, pero sigo necesitando subir a la superficie para respirar. Al sumergirme puedo cerrar los orificios nasales para que no entre agua. Soy un reptil y mi vida en el mar tiene adaptaciones diferentes de las de un pez.",
+    "reviewed": true
+  },
+  "6-5": {
+    "name": "Cangrejo",
+    "question": "¿Puede un cangrejo recuperar una pata o una pinza?",
+    "answer": "En ciertas condiciones puedo desprenderme de una extremidad dañada o atrapada. Después, a lo largo de las mudas, puede crecer una nueva. Al principio suele ser más pequeña y necesita tiempo para recuperar su tamaño. Mi cuerpo tiene mecanismos que ayudan a cerrar la herida y a limitar la pérdida de líquido.",
+    "reviewed": true
+  },
+  "6-6": {
+    "name": "Erizo de mar",
+    "question": "¿Cómo mueve sus espinas un erizo de mar?",
+    "answer": "Mis espinas están unidas al esqueleto que protege mi cuerpo y pueden moverse con ayuda de pequeños músculos. También tengo pies ambulacrales, que funcionan mediante un sistema de agua dentro del cuerpo. Los pies me ayudan a desplazarme y sujetarme. Espinas y pies trabajan de distintas maneras para que pueda vivir sobre el fondo marino.",
+    "reviewed": true
+  },
+  "6-7": {
+    "name": "Caballito de mar",
+    "question": "¿El caballito de mar macho lleva a las crías?",
+    "answer": "La hembra coloca los huevos en una bolsa especial del macho. Allí los huevos quedan protegidos y los embriones se desarrollan. Cuando están listos, las pequeñas crías salen de la bolsa del padre. Esa es una de las características más sorprendentes de los caballitos de mar. La hembra produce los huevos y el macho se encarga de llevarlos durante su desarrollo.",
+    "reviewed": true
+  },
+  "6-8": {
+    "name": "Langosta",
+    "question": "¿Por qué se reúnen las langostas en refugios bajo el agua?",
+    "answer": "Muchas langostas buscan grietas y cuevas para protegerse. En algunos lugares pueden compartir los refugios con otras langostas. El número que cabe depende del tamaño del escondite y de la entrada. Permanecer juntas puede ayudar a detectar el peligro y a defender el lugar donde descansan.",
+    "reviewed": true
+  },
+  "6-9": {
+    "name": "Pez erizo",
+    "question": "¿Cómo se infla un pez erizo?",
+    "answer": "Si me siento amenazado, puedo llenar una parte especial de mi cuerpo con agua. Así aumento de tamaño y mis espinas quedan levantadas. Ese cambio hace más difícil que un enemigo me atrape o me trague. Cuando el peligro termina expulso el agua y recupero mi forma habitual. No debo ser sacado del agua ni molestado para que haga esta demostración.",
+    "reviewed": true
+  },
+  "6-10": {
+    "name": "Medusa",
+    "question": "¿Cómo pica una medusa?",
+    "answer": "En mis tentáculos tengo células especiales que pueden disparar estructuras diminutas con sustancias que afectan a otros animales. Las uso para capturar alimento y defenderme. Cuando una presa toca los tentáculos, esas células pueden activarse. Algunas picaduras también lastiman a las personas. No tengo dientes para morder: mi manera de capturar presas es muy diferente.",
+    "reviewed": true
+  },
+  "6-11": {
+    "name": "Manatí",
+    "question": "¿Por qué un manatí puede ayudar a mantener algunos canales de agua?",
+    "answer": "Somos herbívoros y comemos plantas acuáticas que crecen en el fondo, en la superficie y cerca de las orillas. En algunos lugares se ha aprovechado nuestra forma de alimentarnos para reducir el exceso de vegetación en canales. Sin embargo, seguimos siendo animales silvestres que necesitan espacio, alimento adecuado y protección. Nuestra presencia forma parte de los ecosistemas donde vivimos.",
+    "reviewed": true
+  },
+  "6-12": {
+    "name": "Pez plano",
+    "question": "¿Por qué tiene los ojos del mismo lado un pez plano?",
+    "answer": "Cuando nacemos, muchos peces planos nos parecemos más a otros peces: tenemos un ojo a cada lado de la cabeza. Durante el crecimiento cambia la forma del cuerpo y uno de los ojos se desplaza hacia el otro lado. Así podemos permanecer acostados sobre el fondo y mantener ambos ojos mirando hacia arriba. Ese cambio nos ayuda a vivir y escondernos sobre la arena.",
+    "reviewed": true
+  },
+  "6-13": {
+    "name": "Tiburón martillo",
+    "question": "¿Por qué se llama tiburón martillo?",
+    "answer": "Mi cabeza se extiende hacia los lados y recuerda la forma de un martillo. Los ojos quedan cerca de los extremos. Esa forma forma parte de mis adaptaciones para explorar el entorno y encontrar alimento. Aunque soy un depredador, no significa que busque a las personas como alimento. Debemos respetar a todos los animales marinos y observarlos sin molestarlos.",
+    "reviewed": true
+  },
+  "6-14": {
+    "name": "Raya eléctrica",
+    "question": "¿Cómo produce electricidad una raya eléctrica?",
+    "answer": "Tengo órganos eléctricos especiales a los lados de la cabeza. Están formados por muchas células que pueden actuar juntas para producir una descarga. Uso esa capacidad para capturar alimento y defenderme. La potencia cambia entre especies. Es una adaptación sorprendente y una buena razón para observar a estos animales sin tocarlos.",
+    "reviewed": true
+  },
+  "6-15": {
+    "name": "Pulpo",
+    "question": "¿Cómo se desplaza un pulpo?",
+    "answer": "Puedo moverme sobre el fondo utilizando mis brazos y sus ventosas. Para avanzar con rapidez también expulso agua por un conducto llamado sifón. Si me siento amenazado puedo liberar tinta, que dificulta que un perseguidor me siga. Mis brazos, mi cuerpo flexible y mi capacidad para esconderme me permiten recorrer muchos tipos de refugios bajo el agua.",
+    "reviewed": true
+  },
+  "6-16": {
+    "name": "Almeja gigante",
+    "question": "¿Por qué viven algas junto a una almeja gigante?",
+    "answer": "En mis tejidos viven pequeñas algas que aprovechan la luz para realizar fotosíntesis. Ellas producen sustancias que me ayudan a alimentarme, mientras yo les proporciono un lugar donde vivir y materiales que necesitan. Esta colaboración es otro ejemplo de simbiosis. Las almejas gigantes pueden alcanzar un tamaño y un peso extraordinarios.",
+    "reviewed": true
+  },
+  "7-1": {
+    "name": "Foca",
+    "question": "¿Cómo se mueve una foca sobre tierra?",
+    "answer": "Mis extremidades están adaptadas para nadar. En el agua me desplazo con mucha más facilidad que sobre el suelo. En tierra avanzo moviendo y ondulando el cuerpo, con ayuda de mis aletas. Aunque mi manera de moverme parezca torpe, puedo desplazarme con bastante rapidez cuando lo necesito. Mi cuerpo muestra la adaptación de estos mamíferos a la vida marina.",
+    "reviewed": true
+  },
+  "7-2": {
+    "name": "Oso polar",
+    "question": "¿Por qué se considera al oso polar un gran cazador del Ártico?",
+    "answer": "Soy un mamífero grande y fuerte, adaptado a la vida sobre el hielo y cerca del mar. Puedo nadar y desplazarme por grandes áreas en busca de alimento. Mi pelaje y mi capa de grasa me ayudan a conservar el calor. Mis orejas relativamente pequeñas también reducen la pérdida de calor. Los osos polares vivimos en el Ártico, no junto a los pingüinos de la Antártida.",
+    "reviewed": true
+  },
+  "7-3": {
+    "name": "Morsa",
+    "question": "¿Para qué le sirven los colmillos a una morsa?",
+    "answer": "Mis largos colmillos me ayudan a sujetarme y a salir del agua sobre el hielo. También los uso para mostrar mi tamaño y competir con otras morsas. Para encontrar muchos de los pequeños animales del fondo marino utilizo mis sensibles bigotes. Los colmillos son dientes que pueden crecer mucho. Son una parte importante de mi cuerpo y de mis relaciones con otras morsas.",
+    "reviewed": true
+  },
+  "7-4": {
+    "name": "Beluga",
+    "question": "¿Para qué le sirve la gruesa capa de grasa a una beluga?",
+    "answer": "Mi capa de grasa me ayuda a conservar el calor en aguas frías. También almacena energía y contribuye a la flotación. Como soy un mamífero, debo subir a respirar aire. Mi cuerpo puede guardar oxígeno en la sangre y en los músculos para utilizarlo durante las inmersiones. Estas adaptaciones me permiten nadar y alimentarme en un ambiente muy distinto del nuestro.",
+    "reviewed": true
+  },
+  "7-5": {
+    "name": "Zorro ártico",
+    "question": "¿Por qué tiene pequeñas las orejas y el hocico el zorro ártico?",
+    "answer": "Unas orejas pequeñas y un cuerpo compacto ayudan a perder menos calor. También tengo un pelaje denso que me protege del frío. En muchas poblaciones el color del pelaje cambia con las estaciones: claro durante el invierno y más oscuro durante el verano. Ese cambio puede ayudarme a pasar desapercibido en distintos paisajes.",
+    "reviewed": true
+  },
+  "7-6": {
+    "name": "Págalo",
+    "question": "¿Por qué el págalo tiene fama de quitar alimento a otras aves?",
+    "answer": "Algunos págalos persiguen a otras aves y las molestan hasta que sueltan el alimento que llevan. Entonces lo recogen. Esa manera de conseguir comida explica su fama de ladrones del mar. También podemos cazar y buscar alimento por otros medios. Nuestra dieta y nuestro comportamiento cambian según la especie y el lugar donde vivimos.",
+    "reviewed": true
+  },
+  "7-7": {
+    "name": "Pingüino",
+    "question": "¿Cómo se protege del frío un pingüino?",
+    "answer": "Mis plumas forman una cubierta densa que ayuda a conservar el calor y a mantener el agua lejos de la piel. Debajo de ella tengo una capa de grasa. En tierra puedo caminar con pasos que parecen torpes, pero dentro del agua soy un nadador muy ágil. Mis alas están transformadas en aletas y las patas me ayudan a dirigir el movimiento. No todos los pingüinos viven en lugares cubiertos de hielo.",
+    "reviewed": true
+  },
+  "7-8": {
+    "name": "Ballena franca",
+    "question": "¿Cómo atrapa su alimento una ballena franca?",
+    "answer": "Nado con la boca abierta por zonas donde se concentran pequeños animales acuáticos. Al cerrar y filtrar el agua, las barbas que cuelgan dentro de mi boca retienen el alimento. Después lo trago y continúo buscando. Las barbas funcionan como un filtro: no son dientes ni bigotes en la parte exterior de la cara.",
+    "reviewed": true
+  },
+  "7-9": {
+    "name": "Narval",
+    "question": "¿Qué es el largo colmillo de un narval?",
+    "answer": "El largo colmillo que ves es un diente que crece hacia afuera, sobre todo en los machos. Puede servir como señal en nuestras relaciones con otros narvales y tiene una gran sensibilidad. Los científicos siguen estudiando sus distintas funciones. Aunque recuerde un cuerno de cuento, es una parte real y muy especial de nuestro cuerpo.",
+    "reviewed": true
+  },
+  "7-10": {
+    "name": "Elefante marino",
+    "question": "¿Cómo puede bucear tan profundo un elefante marino?",
+    "answer": "Mi cuerpo puede almacenar una gran cantidad de oxígeno en la sangre y en los músculos. Durante una inmersión disminuye el ritmo de mi corazón y el oxígeno se utiliza con cuidado. Así puedo permanecer sumergido durante mucho tiempo mientras busco alimento. Aun con esas adaptaciones necesito volver a la superficie para respirar, porque soy un mamífero.",
+    "reviewed": true
+  },
+  "8-1": {
+    "name": "Lagarto de collar",
+    "question": "¿Todos los lagartos pueden recuperar una cola perdida?",
+    "answer": "Algunos lagartos pueden desprenderse de una parte de la cola cuando un enemigo los atrapa. Eso puede darles una oportunidad para escapar. En ciertas especies crece después una nueva cola, aunque no siempre es igual a la anterior. No todos los lagartos tienen esa capacidad. Por eso nunca se debe sujetar o levantar a un lagarto por la cola.",
+    "reviewed": true
+  },
+  "8-2": {
+    "name": "Emú",
+    "question": "¿Por qué puede causar problemas un emú en los cultivos?",
+    "answer": "Soy un ave grande que corre, pero no vuela. Como plantas, semillas y otros alimentos que encuentro. Durante las épocas secas puedo acercarme a los campos cultivados en busca de comida. Si entramos muchos emúes, podemos afectar las cosechas. Para convivir con los animales es importante proteger los cultivos sin destruir sus hábitats.",
+    "reviewed": true
+  },
+  "8-3": {
+    "name": "Koala",
+    "question": "¿Por qué pasa tanto tiempo en los árboles un koala?",
+    "answer": "Los árboles me proporcionan alimento y refugio. Como principalmente hojas de eucalipto y obtengo parte del agua que necesito de ellas. Mis patas y mis garras están adaptadas para trepar y sujetarme. Sobre el suelo me muevo de otra manera y puedo quedar más expuesto. Por eso paso gran parte de mi vida descansando y alimentándome entre las ramas.",
+    "reviewed": true
+  },
+  "8-4": {
+    "name": "Diablo de Tasmania",
+    "question": "¿Qué amenazas afronta el diablo de Tasmania?",
+    "answer": "La persecución y los cambios que las personas han provocado en el hábitat han afectado a los diablos de Tasmania. También enfrentamos amenazas como enfermedades y accidentes. Somos mamíferos marsupiales y comemos carne, incluidos restos de animales que encontramos. Aunque nuestro nombre y nuestros gritos parezcan temibles, formamos parte del equilibrio natural de Tasmania y necesitamos protección.",
+    "reviewed": true
+  },
+  "8-5": {
+    "name": "Equidna",
+    "question": "¿Por qué la equidna es un mamífero que pone huevos?",
+    "answer": "Las equidnas y los ornitorrincos pertenecemos a un grupo de mamíferos llamado monotremas. A diferencia de la mayoría de los mamíferos actuales, ponemos huevos. Cuando las crías nacen se alimentan de leche. Mi cuerpo está cubierto de espinas y utilizo una lengua larga y pegajosa para atrapar hormigas y termitas. Por eso también me llaman hormiguero espinoso.",
+    "reviewed": true
+  },
+  "8-6": {
+    "name": "Canguro",
+    "question": "¿Por qué encontramos tantos canguros en Australia?",
+    "answer": "Los canguros somos marsupiales. Nuestras crías nacen muy pequeñas y continúan su desarrollo sujetas a una mama, normalmente protegidas dentro de la bolsa de la madre. Durante mucho tiempo Australia estuvo aislada de otros continentes, y allí evolucionaron numerosos marsupiales. Esa historia ayuda a explicar por qué estos animales son tan característicos de la región.",
+    "reviewed": true
+  },
+  "8-7": {
+    "name": "Kiwi",
+    "question": "¿De dónde viene el nombre del kiwi?",
+    "answer": "El nombre kiwi viene del maorí y se relaciona con el sonido de nuestra llamada. Somos aves de Nueva Zelanda. Tenemos un pico largo y un olfato muy desarrollado, que nos ayuda a buscar alimento. Nuestras alas son muy pequeñas y no podemos volar. Aun así, somos verdaderas aves, con adaptaciones muy especiales para vivir sobre el suelo.",
+    "reviewed": true
+  },
+  "8-8": {
+    "name": "Ornitorrinco",
+    "question": "¿Por qué pone huevos el ornitorrinco?",
+    "answer": "Pertenezco al grupo de los monotremas, junto con las equidnas. Somos mamíferos que ponemos huevos. Las crías se desarrollan dentro del huevo y, después de nacer, se alimentan de leche de la madre. Esa combinación de características nos distingue de otros mamíferos. El ornitorrinco vive en Australia y está adaptado para buscar alimento en el agua.",
+    "reviewed": true
+  },
+  "8-9": {
+    "name": "Tilacino",
+    "question": "¿En qué se diferenciaba el tilacino de un lobo?",
+    "answer": "Aunque mi forma recordaba a la de un perro o un lobo, yo era un marsupial. Las hembras tenían una bolsa donde las crías continuaban creciendo. Mi parentesco era diferente del de los lobos y mi cola también tenía otra forma. Por mis rayas me llamaban tigre de Tasmania y por mi aspecto también lobo marsupial. Hoy se considera una especie extinta.",
+    "reviewed": true
+  },
+  "9-1": {
+    "name": "Araña",
+    "question": "¿Cómo construye una araña su telaraña?",
+    "answer": "Produzco hilos de seda con los que puedo unir distintos puntos. A veces el viento lleva uno de los hilos hasta una superficie cercana. Cuando queda sujeto, lo tenso y lo refuerzo. Después voy colocando otros hilos hasta formar la estructura. Muchas arañas tejen una red con líneas que salen del centro y otras que las unen. La forma exacta depende de la especie.",
+    "reviewed": true
+  },
+  "9-2": {
+    "name": "Abeja",
+    "question": "¿Cómo encuentra una abeja las flores con alimento?",
+    "answer": "Las abejas exploradoras buscamos flores y podemos regresar a la colmena para comunicar el hallazgo. En las abejas de la miel, algunos movimientos de la danza indican la dirección y la distancia aproximada de una fuente de alimento. Otras abejas siguen esas señales y también utilizan olores y otras pistas. Así reunimos néctar y polen para la colonia.",
+    "reviewed": true
+  },
+  "9-3": {
+    "name": "Gato",
+    "question": "¿De verdad tiene nueve vidas un gato?",
+    "answer": "No. Esa idea es una leyenda. Los gatos tenemos un gran sentido del equilibrio y podemos girar el cuerpo durante algunas caídas para intentar caer sobre las patas. Nuestros músculos y articulaciones ayudan a amortiguar ciertos movimientos, pero también podemos sufrir lesiones graves. Una caída nunca es un juego y no debemos poner a un gato en peligro para comprobar cómo cae.",
+    "reviewed": true
+  },
+  "9-4": {
+    "name": "Perro",
+    "question": "¿Por qué saca la lengua un perro después de correr?",
+    "answer": "Cuando corro o hace calor necesito liberar parte del calor de mi cuerpo. El jadeo ayuda a evaporar agua de la lengua y de las vías respiratorias, y así contribuye a refrescarme. No sudo por todo el cuerpo de la misma manera que una persona. Por eso necesito descansar, tener agua disponible y protegerme del calor.",
+    "reviewed": true
+  },
+  "9-5": {
+    "name": "Cerdo",
+    "question": "¿Por qué les gusta el lodo a los cerdos?",
+    "answer": "Mis antepasados buscaban raíces y otros alimentos removiendo el suelo con el hocico. Tengo un olfato muy sensible que me ayuda a encontrar comida escondida. El lodo también puede ayudarme a refrescar el cuerpo y a cubrir la piel. No significa que me guste vivir en un lugar sucio: necesito agua, espacio y un ambiente adecuado.",
+    "reviewed": true
+  },
+  "9-6": {
+    "name": "Vaca",
+    "question": "¿Por qué parece que una vaca mastica todo el tiempo?",
+    "answer": "Soy un rumiante. Mi estómago tiene cuatro compartimentos que colaboran en la digestión del pasto y de otros alimentos vegetales. Después de comer, parte del alimento vuelve a la boca y lo mastico de nuevo; a eso se le llama rumiar. En la digestión también participan muchos microorganismos. Todo ese proceso me permite aprovechar materiales que una persona no puede digerir de la misma manera.",
+    "reviewed": true
+  },
+  "9-7": {
+    "name": "Caballo",
+    "question": "¿Para qué se colocan herraduras a algunos caballos?",
+    "answer": "Mis cascos están formados por un tejido duro que protege los extremos de las patas. El trabajo y ciertos tipos de suelo pueden desgastarlos o dañarlos. Las herraduras, cuando son adecuadas y están bien colocadas, ayudan a protegerlos. No todos los caballos necesitan el mismo cuidado: una persona experta debe revisar los cascos y decidir qué protección conviene.",
+    "reviewed": true
+  },
+  "9-8": {
+    "name": "Rata",
+    "question": "¿Por qué una rata roe madera aunque no se la coma?",
+    "answer": "Mis dientes delanteros, llamados incisivos, crecen durante toda la vida. Al roer distintos materiales los desgasto y los mantengo en una longitud útil. La madera que muerdo no siempre es alimento. Si los dientes crecieran sin desgastarse correctamente, podrían causarme problemas para cerrar la boca y comer.",
+    "reviewed": true
+  },
+  "9-9": {
+    "name": "Oveja y cabra",
+    "question": "¿Qué diferencias hay entre una oveja y una cabra?",
+    "answer": "Somos animales emparentados, pero no somos iguales. Muchas ovejas tienen un vellón de lana y prefieren permanecer en rebaños. Las cabras suelen tener el pelo distinto y muchas poseen una pequeña barba. También suelen trepar y desplazarse con facilidad por terrenos rocosos. Los cuernos, el pelaje y otras características cambian según la raza, así que no hay una sola apariencia para todas.",
+    "reviewed": true
+  },
+  "9-10": {
+    "name": "Cigüeña",
+    "question": "¿Por qué algunas personas preparan lugares para que aniden las cigüeñas?",
+    "answer": "En muchas tradiciones europeas se considera que una cigüeña cerca de la casa trae buena suerte. Por eso algunas personas han preparado plataformas o han protegido nidos sobre edificios y otros lugares altos. Las cigüeñas aprovechan sitios adecuados para construir sus grandes nidos. La historia de que traen bebés pertenece a los cuentos y a las leyendas.",
+    "reviewed": true
+  },
+  "9-11": {
+    "name": "Ganso",
+    "question": "¿Por qué se parecen los gansos domésticos a los silvestres?",
+    "answer": "Los gansos domésticos descienden de gansos silvestres que las personas comenzaron a criar hace muchos siglos. Con el tiempo seleccionaron animales con ciertas características de tamaño, peso y comportamiento. Por eso hay distintas razas domésticas. Aun con esos cambios, conservamos muchas características que muestran nuestro parentesco con los gansos silvestres.",
+    "reviewed": true
+  },
+  "9-12": {
+    "name": "Golondrina",
+    "question": "¿Por qué vuela con tanta agilidad una golondrina?",
+    "answer": "La forma alargada y ligera de mi cuerpo, mis alas y mi cola me ayudan a moverme con agilidad en el aire. Puedo cambiar de dirección y seguir a los insectos que me sirven de alimento. Mi cuerpo ofrece poca resistencia al aire y mis movimientos me permiten realizar giros rápidos mientras vuelo.",
+    "reviewed": true
+  },
+  "9-13": {
+    "name": "Libélula",
+    "question": "¿Cómo atrapa una libélula a su presa en pleno vuelo?",
+    "answer": "Mis grandes ojos me permiten detectar movimientos a mi alrededor. Esa información llega rápidamente al sistema nervioso y me ayuda a seguir a otros insectos. Con mis patas puedo atraparlos mientras vuelo. Mis alas se mueven con gran control y me permiten acelerar, detenerme o cambiar de dirección con mucha agilidad.",
+    "reviewed": true
+  }
+}

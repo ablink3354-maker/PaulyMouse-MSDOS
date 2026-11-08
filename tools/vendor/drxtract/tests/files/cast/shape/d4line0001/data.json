@@ -1,0 +1,15 @@
+{
+    "backColor": 178,
+    "bottom": 103,
+    "content": {},
+    "direction": "lt_br",
+    "filled": 1,
+    "foreColor": 254,
+    "left": 21,
+    "lineSize": 2,
+    "pattern": 1,
+    "right": 144,
+    "shapeType": "line",
+    "top": 29,
+    "type": "shape"
+}

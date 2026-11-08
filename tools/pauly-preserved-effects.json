@@ -1,0 +1,342 @@
+[
+  {
+    "file": "ECOC1.AIF",
+    "sha256": "4f897f67ff6577c35efbb53fea5a298cc6097911e6103aa9667756bc48506025",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF00009.AIF",
+    "sha256": "8d450999fa0591951d705b42f87caaec59fe7d6a1c482c35829c3fe1b7292f92",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF100N1.AIF",
+    "sha256": "64c3d5d0c66adb29f7fcf1d681811056fd45901002f1e8b6c36afd8be7d20b6c",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF100N2.AIF",
+    "sha256": "ec405f923d87d7a9423add57c021555569f4b12538877376dcfdc52aed193842",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF107N.AIF",
+    "sha256": "70560b68c1efa7b1213df5ee56343ffa0f77bd856e915195b5a1bed5d41a1710",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF108N.AIF",
+    "sha256": "e93e29e0644d9600b9c85497b763270f20b59822a3703036ae633b37350f9e25",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF113N.AIF",
+    "sha256": "ab352c425d168eb2656b596b80319a9e79a191c0cbb9480be632787560aaa437",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF200N.AIF",
+    "sha256": "682fa77e9dc88cfe0450bc806d597802434e3a1e02f6d7cc3981a672529ea223",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF200N1.AIF",
+    "sha256": "337fd9ede805ea8cbd3607f2e76daaa5620c1b61e8aafbd567e1ee62bca51313",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF200N2.AIF",
+    "sha256": "682fa77e9dc88cfe0450bc806d597802434e3a1e02f6d7cc3981a672529ea223",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF202N.AIF",
+    "sha256": "0337640eb812eece1417c617f86cfb0162a57e8e612402d8f70d72058f0fef11",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF204N.AIF",
+    "sha256": "2cc9405df4544bf1ac01c7f530e18e72793c91e58e19dc52a321f88b6eb209bc",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF206N.AIF",
+    "sha256": "c6cf742ce28a202393cdf035683e31a308049bb785523a62d0205acf50aadd9f",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF208N.AIF",
+    "sha256": "0de0e8b29bec48d775500fb1312eeccb1be17fe7789329a9bebd401e077b3f55",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF300N1.AIF",
+    "sha256": "6bef9a8609c2cc87afebc374aabff111521d75354129f8d613ee4e0db0badc38",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF300N2.AIF",
+    "sha256": "780bd5cdc2c6f4b96aa93b1853f2608650b825dcf8f6c85b5d9efd8af946d384",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF301N.AIF",
+    "sha256": "0eb549b9a3c69db32d7f7f8314f0c62337b8d89e90696aeadd4efd9ad360fc2b",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF302N.AIF",
+    "sha256": "9d6802f51441c8f7eca78ab35c84ff1395cdecfcff07668cd439f2f9d9581bad",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF303N.AIF",
+    "sha256": "944be430327aae80753a20cdcf14f3ddccacaead3afbe7b9fe2446265ea0864b",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF306N.AIF",
+    "sha256": "a19b218e57cea00adaaf0cf18aa6786289949e2ea52fca14c7893c33a32273fa",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF309N.AIF",
+    "sha256": "dd8a28618306a69593a969f85945d7a88a59e6d60977362ad10474dd2afe28a3",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF312N.AIF",
+    "sha256": "975c0a6125c5eccb66b80c4f0eaf64d19116284d73ad9d7b92582fce02cbdb14",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF400N1.AIF",
+    "sha256": "b8445e54e89110b0e6c5ae73cc10f500faad2c741b261891a35d320f79c7693c",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF400N2.AIF",
+    "sha256": "1d7a79c6f8010f97bac2fa4ee86b71a3012c15e2818a75e0988003ff035d4c6c",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF403N.AIF",
+    "sha256": "093b041d48b3154b507625640d5b7b34a2675b9ab52ca3910161f6b8e198fab0",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF404N.AIF",
+    "sha256": "dc8e4cd1890a7724044292fedda6cf3721b7185959d13654ec2c77be74090d60",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF405N.AIF",
+    "sha256": "8dea7072b32ac6456feeaf3bab4af68bab430ab5239fb4527591e70b8401f0d7",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF408N.AIF",
+    "sha256": "2afd60c47a522557a3138a5c80ed63486a095fbdb86fb82bacf77de193d6e552",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF409N.AIF",
+    "sha256": "2fdc70ce567c2cab82c6084620b079746215a109a4065dc81ff00b5bda426703",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF410N.AIF",
+    "sha256": "b5daa89e0883f1d6428766575be13f247d7c84d0bad44ed1ff64e18f08ca3ee7",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF411N.AIF",
+    "sha256": "f98a964aa23b67b2367b78601cab8d071e4621fc65a32e34bf8abbd8e3c32fc3",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF500N1.AIF",
+    "sha256": "ee99e251bacde5981cb51bc11166faac2f22020a2d387d69e99102b8d881b490",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF500N2.AIF",
+    "sha256": "abb1e2550a409f489a612ed6adcc036fc62130fde500791d2f4f9e0a2c59ba6d",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF507N.AIF",
+    "sha256": "a882866da349ae201b638865fb4f320a419760493744efbf64edb25d09bfbf75",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF510N.AIF",
+    "sha256": "0ddfabda83a90a32fb640c332e0e203944532c85409b592238137755bcdb9acb",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF600N1.AIF",
+    "sha256": "fa6512258b926a672bb02233f46b63e566a37b63fe85bc2e6dccaf2043441ab4",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF600N2.AIF",
+    "sha256": "7b1e9fccec302a83bd6015c5111afeb2d73c544d6d12178facaa352e8dfcf544",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF603N.AIF",
+    "sha256": "3056e495aa6256deafedb6ae9efae1af31b2c8b51fb8d6477d289f234258deca",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF604N.AIF",
+    "sha256": "70f3413dc1ead1ecd82d11c3aa7ba0e1fa9b5f0578b85af0b2f114c1a3b67d11",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF605N.AIF",
+    "sha256": "dbb9f55b634c1fdadac695ff34dc945b225577bdcfd9524aaa7da182ebf7338f",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF606N.AIF",
+    "sha256": "ba11a8124613864f75ae87ec88d9ca2354f5d0002bd3aa3609a4ed0c56fe013a",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF607N.AIF",
+    "sha256": "93d0408757f8fb79db9cf5d12ec0081ba9372757fbe40e32bdefbe585f66afa9",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF610N.AIF",
+    "sha256": "734c37f1b6e378af2145fe7b08fdf1d40a2a31b93cd4f9aec984420b092407e7",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF612N.AIF",
+    "sha256": "59f981ea4d4074e9eb68e586ba8746de05dbfb5338d2f14531f3eee55df0130b",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF613N.AIF",
+    "sha256": "45b97dae42163ae1310aaa9dc7bec36525cd39afd99a7eb972e2768b95d1d4c0",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF700N1.AIF",
+    "sha256": "36cc04a3ad04a5d35335809862fc8ee2fc1efb00f4c6ec47d0a5beb249b8b9b0",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF700N2.AIF",
+    "sha256": "67df2b15a5f0e1656215f17c5f79947340250c0299446e44609e18a894052e35",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF701N.AIF",
+    "sha256": "4ba06e74a8a1c0341b9455fee8fcb7b8838936f3c7db2af49a19c6060397ca28",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF703N.AIF",
+    "sha256": "9e5cf732759fc585e1f16af224e22085ca282a263b8a76430c62c556efb229d5",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF705N.AIF",
+    "sha256": "f9b7fd422bc6aa6c122eda08f817da1ddb9edcdf385900968de185ee803387b3",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF708N.AIF",
+    "sha256": "862f46f7629f44a2d9f9fd7332fdbfc607c2caa781eea09acd29a4637fbf660f",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF709N.AIF",
+    "sha256": "4ae6b90e1e2a632e8f8615a9d5bfd6f9dcba7bb568df549f87a10b9afaf1947a",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF800N1.AIF",
+    "sha256": "3f6b650b0b9ac66a4fc66992891b34f72e1c18eac686a3911113bc46b297d9b1",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF800N2.AIF",
+    "sha256": "c145adb826dbc47f625ac693c7f962e72fe47b5180cc4b0d35e9e9320aae4655",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF801N.AIF",
+    "sha256": "d76372b557589b48409f75e0c5a53d6f95191afc1d97f96535a0791df935d06e",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF802N.AIF",
+    "sha256": "96d08720f4e2da1f56b7416929ed1d8c3d5c38474276c66f219f07486e2b5d7e",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF803AN.AIF",
+    "sha256": "d950b72135a9729bc6d1377e046cae0b8dac80f51f4f251ff2d0f2388730e32a",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF803BN.AIF",
+    "sha256": "d5f2aa4d49ace3d44c1bb18770f42f6957aa1cdde1e09706476a1ea01e9805d2",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF805N.AIF",
+    "sha256": "50febcb952bda1f72b56e703e5280661f89b20d1f7e2f0a76638ba4f39cb4f1a",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF807N.AIF",
+    "sha256": "c931603df6faa8a6adfca6973acdb762d5d7414b17467974cf8dfeca492f7234",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF810N.AIF",
+    "sha256": "44dcecb24917a693ada046ebcd13bbcc470432431779992daf9c3eb25d7cfc97",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF900N1.AIF",
+    "sha256": "c52b9936e05613e254def9342e7b142c96fce89c750997172c99dbe80aa12b18",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF900N2.AIF",
+    "sha256": "023a637c55952de7fb579f4ab414b60778844f14ea407c427695e99694a52071",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF901N.AIF",
+    "sha256": "5b6e1e179c9ee89fe4f67ef551d3ad09174c8a61f1398d68a7f1fa957fe6862e",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF904N.AIF",
+    "sha256": "0f79da92ede56e0df13b04725d67f184c1cd3c5d18eba36996e8546fefa87db6",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF907N.AIF",
+    "sha256": "e455edede9c5c2ff028e7991043e4d0bab2b04c80836b0de149b8ae613005932",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF909N.AIF",
+    "sha256": "27ef86ac25f7229448fbe90b83ae37a13a154e5c540ddde9212a14f8f3c0c9a7",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  },
+  {
+    "file": "SEF911N.AIF",
+    "sha256": "3ebcd9385eafa30c2c565657c507813b31aa6fbb68e8a8a8c61eb1c9f0f4dd59",
+    "reason": "Original nonverbal reaction / animal call / instrumental effect"
+  }
+]

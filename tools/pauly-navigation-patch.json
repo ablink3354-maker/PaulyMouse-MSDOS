@@ -1,0 +1,222 @@
+[
+  {
+    "movie": "SCENE1",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"b\" then\rglobal S1\rif (S1 < 1) or (S1 > 13) then set S1 = 1\rgo \"BOpen\"\rend if\rif the key = \"r\" then\rgo \"Back\"\rend if\rif the key = \"l\" then\rgo \"Back\"\rend if\rif the key = \"n\" then\rgo \"Nxt\"\rend if\rif the key = \"p\" then\rgo \"Pre\"\rend if\r"
+  },
+  {
+    "movie": "SCENE2",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"b\" then\rglobal S2\rif (S2 < 1) or (S2 > 13) then set S2 = 1\rgo \"BOpen\"\rend if\rif the key = \"r\" then\rgo \"Back\"\rend if\rif the key = \"l\" then\rgo \"Back\"\rend if\rif the key = \"n\" then\rgo \"Nxt\"\rend if\rif the key = \"p\" then\rgo \"Pre\"\rend if\r"
+  },
+  {
+    "movie": "SCENE3",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"b\" then\rglobal S3\rif (S3 < 1) or (S3 > 14) then set S3 = 1\rgo \"BOpen\"\rend if\rif the key = \"r\" then\rgo \"Back\"\rend if\rif the key = \"l\" then\rgo \"Back\"\rend if\rif the key = \"n\" then\rgo \"Nxt\"\rend if\rif the key = \"p\" then\rgo \"Pre\"\rend if\r"
+  },
+  {
+    "movie": "SCENE4",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"b\" then\rglobal S4\rif (S4 < 1) or (S4 > 11) then set S4 = 1\rgo \"BOpen\"\rend if\rif the key = \"r\" then\rgo \"Back\"\rend if\rif the key = \"l\" then\rgo \"Back\"\rend if\rif the key = \"n\" then\rgo \"Nxt\"\rend if\rif the key = \"p\" then\rgo \"Pre\"\rend if\r"
+  },
+  {
+    "movie": "SCENE5",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"b\" then\rglobal S5\rif (S5 < 1) or (S5 > 12) then set S5 = 1\rgo \"BOpen\"\rend if\rif the key = \"r\" then\rgo \"Back\"\rend if\rif the key = \"l\" then\rgo \"Back\"\rend if\rif the key = \"n\" then\rgo \"Nxt\"\rend if\rif the key = \"p\" then\rgo \"Pre\"\rend if\r"
+  },
+  {
+    "movie": "SCENE6",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"b\" then\rglobal S6\rif (S6 < 1) or (S6 > 16) then set S6 = 1\rgo \"BOpen\"\rend if\rif the key = \"r\" then\rgo \"Back\"\rend if\rif the key = \"l\" then\rgo \"Back\"\rend if\rif the key = \"n\" then\rgo \"Nxt\"\rend if\rif the key = \"p\" then\rgo \"Pre\"\rend if\r"
+  },
+  {
+    "movie": "SCENE7",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"b\" then\rglobal S7\rif (S7 < 1) or (S7 > 10) then set S7 = 1\rgo \"BOpen\"\rend if\rif the key = \"r\" then\rgo \"Back\"\rend if\rif the key = \"l\" then\rgo \"Back\"\rend if\rif the key = \"n\" then\rgo \"Nxt\"\rend if\rif the key = \"p\" then\rgo \"Pre\"\rend if\r"
+  },
+  {
+    "movie": "SCENE8",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"b\" then\rglobal S8\rif (S8 < 1) or (S8 > 9) then set S8 = 1\rgo \"BOpen\"\rend if\rif the key = \"r\" then\rgo \"Back\"\rend if\rif the key = \"l\" then\rgo \"Back\"\rend if\rif the key = \"n\" then\rgo \"Nxt\"\rend if\rif the key = \"p\" then\rgo \"Pre\"\rend if\r"
+  },
+  {
+    "movie": "SCENE9",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"b\" then\rglobal S9\rif (S9 < 1) or (S9 > 13) then set S9 = 1\rgo \"BOpen\"\rend if\rif the key = \"r\" then\rgo \"Back\"\rend if\rif the key = \"l\" then\rgo \"Back\"\rend if\rif the key = \"n\" then\rgo \"Nxt\"\rend if\rif the key = \"p\" then\rgo \"Pre\"\rend if\r"
+  },
+  {
+    "movie": "BOOK1",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"r\" then\rpuppetSound 0\rpuppetSprite 4, 0\rpuppetSprite 5, 0\rpuppetSprite 6, 0\rpuppetSprite 7, 0\rpuppetSprite 8, 0\rpuppetSprite 9, 0\rpuppetSprite 12, 0\rpuppetSprite 10, 0\rpuppetSprite 14, 0\rgo \"Back\"\rend if\rif the key = \"l\" then\rpuppetSound 0\rgo \"Sselect\", \"PANEL\"\rend if\rif the key = \"n\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC + 1\rif gSC > 13 then set gSC = 1\rgo \"start\"\rend if\rif the key = \"p\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC - 1\rif gSC < 1 then set gSC = 13\rgo \"start\"\rend if\r"
+  },
+  {
+    "movie": "BOOK2",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"r\" then\rpuppetSound 0\rpuppetSprite 4, 0\rpuppetSprite 5, 0\rpuppetSprite 6, 0\rpuppetSprite 7, 0\rpuppetSprite 8, 0\rpuppetSprite 9, 0\rpuppetSprite 12, 0\rpuppetSprite 10, 0\rpuppetSprite 14, 0\rgo \"Back\"\rend if\rif the key = \"l\" then\rpuppetSound 0\rgo \"Sselect\", \"PANEL\"\rend if\rif the key = \"n\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC + 1\rif gSC > 13 then set gSC = 1\rgo \"start\"\rend if\rif the key = \"p\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC - 1\rif gSC < 1 then set gSC = 13\rgo \"start\"\rend if\r"
+  },
+  {
+    "movie": "BOOK3",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"r\" then\rpuppetSound 0\rpuppetSprite 4, 0\rpuppetSprite 5, 0\rpuppetSprite 6, 0\rpuppetSprite 7, 0\rpuppetSprite 8, 0\rpuppetSprite 9, 0\rpuppetSprite 12, 0\rpuppetSprite 10, 0\rpuppetSprite 14, 0\rgo \"Back\"\rend if\rif the key = \"l\" then\rpuppetSound 0\rgo \"Sselect\", \"PANEL\"\rend if\rif the key = \"n\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC + 1\rif gSC > 14 then set gSC = 1\rgo \"start\"\rend if\rif the key = \"p\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC - 1\rif gSC < 1 then set gSC = 14\rgo \"start\"\rend if\r"
+  },
+  {
+    "movie": "BOOK4",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"r\" then\rpuppetSound 0\rpuppetSprite 4, 0\rpuppetSprite 5, 0\rpuppetSprite 6, 0\rpuppetSprite 7, 0\rpuppetSprite 8, 0\rpuppetSprite 9, 0\rpuppetSprite 12, 0\rpuppetSprite 10, 0\rpuppetSprite 14, 0\rgo \"Back\"\rend if\rif the key = \"l\" then\rpuppetSound 0\rgo \"Sselect\", \"PANEL\"\rend if\rif the key = \"n\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC + 1\rif gSC > 11 then set gSC = 1\rgo \"start\"\rend if\rif the key = \"p\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC - 1\rif gSC < 1 then set gSC = 11\rgo \"start\"\rend if\r"
+  },
+  {
+    "movie": "BOOK5",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"r\" then\rpuppetSound 0\rpuppetSprite 4, 0\rpuppetSprite 5, 0\rpuppetSprite 6, 0\rpuppetSprite 7, 0\rpuppetSprite 8, 0\rpuppetSprite 9, 0\rpuppetSprite 12, 0\rpuppetSprite 10, 0\rpuppetSprite 14, 0\rgo \"Back\"\rend if\rif the key = \"l\" then\rpuppetSound 0\rgo \"Sselect\", \"PANEL\"\rend if\rif the key = \"n\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC + 1\rif gSC > 12 then set gSC = 1\rgo \"start\"\rend if\rif the key = \"p\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC - 1\rif gSC < 1 then set gSC = 12\rgo \"start\"\rend if\r"
+  },
+  {
+    "movie": "BOOK6",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"r\" then\rpuppetSound 0\rpuppetSprite 4, 0\rpuppetSprite 5, 0\rpuppetSprite 6, 0\rpuppetSprite 7, 0\rpuppetSprite 8, 0\rpuppetSprite 9, 0\rpuppetSprite 12, 0\rpuppetSprite 10, 0\rpuppetSprite 14, 0\rgo \"Back\"\rend if\rif the key = \"l\" then\rpuppetSound 0\rgo \"Sselect\", \"PANEL\"\rend if\rif the key = \"n\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC + 1\rif gSC > 16 then set gSC = 1\rgo \"start\"\rend if\rif the key = \"p\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC - 1\rif gSC < 1 then set gSC = 16\rgo \"start\"\rend if\r"
+  },
+  {
+    "movie": "BOOK7",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"r\" then\rpuppetSound 0\rpuppetSprite 4, 0\rpuppetSprite 5, 0\rpuppetSprite 6, 0\rpuppetSprite 7, 0\rpuppetSprite 8, 0\rpuppetSprite 9, 0\rpuppetSprite 12, 0\rpuppetSprite 10, 0\rpuppetSprite 14, 0\rgo \"Back\"\rend if\rif the key = \"l\" then\rpuppetSound 0\rgo \"Sselect\", \"PANEL\"\rend if\rif the key = \"n\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC + 1\rif gSC > 10 then set gSC = 1\rgo \"start\"\rend if\rif the key = \"p\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC - 1\rif gSC < 1 then set gSC = 10\rgo \"start\"\rend if\r"
+  },
+  {
+    "movie": "BOOK8",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"r\" then\rpuppetSound 0\rpuppetSprite 4, 0\rpuppetSprite 5, 0\rpuppetSprite 6, 0\rpuppetSprite 7, 0\rpuppetSprite 8, 0\rpuppetSprite 9, 0\rpuppetSprite 12, 0\rpuppetSprite 10, 0\rpuppetSprite 14, 0\rgo \"Back\"\rend if\rif the key = \"l\" then\rpuppetSound 0\rgo \"Sselect\", \"PANEL\"\rend if\rif the key = \"n\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC + 1\rif gSC > 9 then set gSC = 1\rgo \"start\"\rend if\rif the key = \"p\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC - 1\rif gSC < 1 then set gSC = 9\rgo \"start\"\rend if\r"
+  },
+  {
+    "movie": "BOOK9",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"r\" then\rpuppetSound 0\rpuppetSprite 4, 0\rpuppetSprite 5, 0\rpuppetSprite 6, 0\rpuppetSprite 7, 0\rpuppetSprite 8, 0\rpuppetSprite 9, 0\rpuppetSprite 12, 0\rpuppetSprite 10, 0\rpuppetSprite 14, 0\rgo \"Back\"\rend if\rif the key = \"l\" then\rpuppetSound 0\rgo \"Sselect\", \"PANEL\"\rend if\rif the key = \"n\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC + 1\rif gSC > 13 then set gSC = 1\rgo \"start\"\rend if\rif the key = \"p\" then\rglobal gSC\rpuppetSound 0\rset gSC = gSC - 1\rif gSC < 1 then set gSC = 13\rgo \"start\"\rend if\r"
+  },
+  {
+    "movie": "PANEL",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"n\" then\rglobal gSNum\rset gSNum = gSNum + 1\rif gSNum > 9 then set gSNum = 1\rgo \"Sselect\"\rend if\rif the key = \"p\" then\rglobal gSNum\rset gSNum = gSNum - 1\rif gSNum < 1 then set gSNum = 9\rgo \"Sselect\"\rend if\rif the key = \"b\" then\rglobal gSNum\rif gSNum < 1 then set gSNum = 1\rif gSNum = 1 then\rglobal S1, gSC, gSNum\rif (S1 < 1) or (S1 > 13) then set S1 = 1\rset gSNum = 1\rset gSC = S1\rgo 1, \"BOOK1\"\rend if\rif gSNum = 2 then\rglobal S2, gSC, gSNum\rif (S2 < 1) or (S2 > 13) then set S2 = 1\rset gSNum = 2\rset gSC = S2\rgo 1, \"BOOK2\"\rend if\rif gSNum = 3 then\rglobal S3, gSC, gSNum\rif (S3 < 1) or (S3 > 14) then set S3 = 1\rset gSNum = 3\rset gSC = S3\rgo 1, \"BOOK3\"\rend if\rif gSNum = 4 then\rglobal S4, gSC, gSNum\rif (S4 < 1) or (S4 > 11) then set S4 = 1\rset gSNum = 4\rset gSC = S4\rgo 1, \"BOOK4\"\rend if\rif gSNum = 5 then\rglobal S5, gSC, gSNum\rif (S5 < 1) or (S5 > 12) then set S5 = 1\rset gSNum = 5\rset gSC = S5\rgo 1, \"BOOK5\"\rend if\rif gSNum = 6 then\rglobal S6, gSC, gSNum\rif (S6 < 1) or (S6 > 16) then set S6 = 1\rset gSNum = 6\rset gSC = S6\rgo 1, \"BOOK6\"\rend if\rif gSNum = 7 then\rglobal S7, gSC, gSNum\rif (S7 < 1) or (S7 > 10) then set S7 = 1\rset gSNum = 7\rset gSC = S7\rgo 1, \"BOOK7\"\rend if\rif gSNum = 8 then\rglobal S8, gSC, gSNum\rif (S8 < 1) or (S8 > 9) then set S8 = 1\rset gSNum = 8\rset gSC = S8\rgo 1, \"BOOK8\"\rend if\rif gSNum = 9 then\rglobal S9, gSC, gSNum\rif (S9 < 1) or (S9 > 13) then set S9 = 1\rset gSNum = 9\rset gSC = S9\rgo 1, \"BOOK9\"\rend if\r\rend if\r"
+  },
+  {
+    "movie": "STARE",
+    "keys": [
+      "b",
+      "r",
+      "l",
+      "n",
+      "p"
+    ],
+    "program": "if the key = \"b\" then\rglobal S1, gSC, gSNum\rif (S1 < 1) or (S1 > 13) then set S1 = 1\rset gSNum = 1\rset gSC = S1\rgo 1, \"BOOK1\"\rend if\rif the key = \"l\" then\rgo \"Sselect\", \"PANEL\"\rend if\r"
+  }
+]

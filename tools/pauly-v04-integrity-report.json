@@ -1,0 +1,84 @@
+{
+  "scenes": [
+    {
+      "room": 1,
+      "unchangedOriginalResources": {
+        "CASt": 1304,
+        "BITD": 1242,
+        "VWSC": 1
+      }
+    },
+    {
+      "room": 2,
+      "unchangedOriginalResources": {
+        "BITD": 1500,
+        "CASt": 1554,
+        "VWSC": 1
+      }
+    },
+    {
+      "room": 3,
+      "unchangedOriginalResources": {
+        "CASt": 1170,
+        "BITD": 1103,
+        "VWSC": 1
+      }
+    },
+    {
+      "room": 4,
+      "unchangedOriginalResources": {
+        "BITD": 878,
+        "CASt": 930,
+        "VWSC": 1
+      }
+    },
+    {
+      "room": 5,
+      "unchangedOriginalResources": {
+        "CASt": 1478,
+        "BITD": 1419,
+        "VWSC": 1
+      }
+    },
+    {
+      "room": 6,
+      "unchangedOriginalResources": {
+        "BITD": 1094,
+        "CASt": 1161,
+        "VWSC": 1
+      }
+    },
+    {
+      "room": 7,
+      "unchangedOriginalResources": {
+        "CASt": 933,
+        "BITD": 883,
+        "VWSC": 1
+      }
+    },
+    {
+      "room": 8,
+      "unchangedOriginalResources": {
+        "CASt": 968,
+        "BITD": 917,
+        "VWSC": 1
+      }
+    },
+    {
+      "room": 9,
+      "unchangedOriginalResources": {
+        "BITD": 1583,
+        "CASt": 1637,
+        "VWSC": 1
+      }
+    }
+  ],
+  "unchangedOriginalMovies": 4,
+  "spanishAudioFiles": 304,
+  "unchangedOriginalSoundFiles": 110,
+  "spanishCharacterLines": 72,
+  "spanishAudioMinutes": 66.73,
+  "voiceDecodeErrors": 0,
+  "fixedDurationChecks": "passed",
+  "webCancelled": true
+}

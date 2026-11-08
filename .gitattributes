@@ -1,0 +1,9 @@
+* text=auto
+*.AIF binary
+*.DXR binary
+*.MOV binary
+*.png binary
+*.jpg binary
+*.mp3 binary
+/releases/*.apk filter=lfs diff=lfs merge=lfs -text
+/releases/*.zip filter=lfs diff=lfs merge=lfs -text
